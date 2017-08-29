@@ -1,0 +1,17 @@
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\DALwhithDapper.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\DALwhithDapper.pdb
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\BLL.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\DAL.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\Dapper.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\EntityFramework.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\AutoMapper.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\BLL.pdb
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\DAL.pdb
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\Dapper.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\EntityFramework.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\AutoMapper.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\obj\Debug\DALwhithDapper.csprojResolveAssemblyReference.cache
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\obj\Debug\DALwhithDapper.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\obj\Debug\DALwhithDapper.pdb
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\Ninject.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\DALwhithDapper\bin\Debug\Ninject.xml

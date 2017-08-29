@@ -1,0 +1,95 @@
+﻿@model IEnumerable<WebApplication3.ViewModels.ReaderViewModel>
+
+@{
+    ViewBag.Title = "List of readers";
+}
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+
+<style>
+    .name {
+        cursor: pointer;
+        color: black;
+    }
+
+    
+</style>
+<h2>List of readers</h2>
+
+<p>@if (ViewBag.Head == true){@Html.ActionLink("Create New", "Create")}</p>      
+        
+        <script>
+            $(document).ready(function() {
+
+                $('#but').click(function(e) {
+                    e.preventDefault();
+                    $('#results').empty();
+                    $('#but').hide();
+
+                });
+            });
+            $(document).ready(function() {
+            $('.name ').click(function (e) {
+                    e.preventDefault();
+                        var id = $(this).data('id');
+                        $('#results').load('@Url.Action("BookSearch", "Orders")', { 'id': id});
+                        $('#but').show();
+                });
+            });
+        </script>
+        
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Fname)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Lname)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Adress)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Telephone)
+                </th>
+                
+            </tr>
+   
+            @foreach (var item in Model) {
+                <tr  >
+                    <td class="name" data-id="@item.Id">
+                        @Html.DisplayFor(modelItem => item.Fname)
+                    </td>
+                    <td class="name" data-id="@item.Id">
+                        @Html.DisplayFor(modelItem => item.Lname)
+                    </td>
+                    <td class="name" data-id="@item.Id">
+                        @Html.DisplayFor(modelItem => item.Adress)
+                    </td>
+                    <td class="name" data-id="@item.Id">
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td class="name" data-id="@item.Id">
+                        @Html.DisplayFor(modelItem => item.Telephone)
+                    </td>
+                    <td  >
+                        @if (ViewBag.Head == true)
+                        {
+                            @Html.ActionLink("Edit | ", "Edit", new {id = item.Id})
+                            @Html.ActionLink("Details | ", "Details", new {id = item.Id}) 
+                            @Html.ActionLink("Delete", "Delete", new {id = item.Id})
+                        }
+                    </td>
+                </tr>
+            }
+
+        </table>
+        <div id="results"></div>
+        <button id="but" style="display: none;" >Close</button>
+        
+    <div>
+        @Html.ActionLink("Back to home", "Index", "Home")
+    </div>

@@ -1,0 +1,37 @@
+﻿@{
+    ViewBag.Title = "Home page";
+}
+
+<h2>Home page</h2>
+@if (User.IsInRole("admin") || User.IsInRole("user"))
+{
+    <div>
+        @Html.ActionLink("List of Books", "Index", "Books")
+    </div>
+
+    <div>
+        @Html.ActionLink("List of Readers", "Index", "Readers")
+    </div>
+
+    <div>
+        @Html.ActionLink("List of Users", "Index", "Users")
+    </div>
+    if (User.IsInRole("admin"))
+    {
+    <div>@Html.ActionLink("List of Orders", "Index", "Orders")</div>
+    }
+}
+else
+{
+<div>
+   @Html.ActionLink("Login", "Login", "Account")
+</div>
+    <div>
+        @Html.ActionLink("Register", "Register", "Account")
+    </div>
+    <div>
+        @{string url = Url.Action("ExternalLogin", new { provider = "vk" });}
+        <a href="#"
+           onclick="window.location.href='@(url)';return false;">Login with VK</a>
+    </div>
+}

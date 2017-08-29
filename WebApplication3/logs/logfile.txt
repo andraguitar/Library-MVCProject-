@@ -1,0 +1,2152 @@
+25.07.2017 13:40:27 Method Login is executing 
+25.07.2017 13:40:27 authorization was successful 
+25.07.2017 13:40:27 Method Login is executed 
+25.07.2017 13:43:45 Method Login is executing 
+25.07.2017 13:43:45 authorization was successful 
+25.07.2017 13:43:45 Method Login is executed 
+25.07.2017 14:03:38 Method Login is executing 
+25.07.2017 14:03:38 authorization was successful 
+25.07.2017 14:03:38 Method Login is executed 
+25.07.2017 14:07:08 Method Create is executing 
+25.07.2017 14:07:08 Method Create is executed 
+25.07.2017 14:07:42 Method Create is executing 
+25.07.2017 14:07:42 Method Create is executed 
+25.07.2017 15:25:27 Method Login is executing 
+25.07.2017 15:25:28 authorization was successful 
+25.07.2017 15:25:28 Method Login is executed 
+25.07.2017 16:29:10 Method Create is executing 
+25.07.2017 16:29:10 Method Create is executed 
+25.07.2017 16:33:27 Method Login is executing 
+25.07.2017 16:33:28 authorization was successful 
+25.07.2017 16:33:28 Method Login is executed 
+25.07.2017 16:44:38 Method Create is executing 
+25.07.2017 16:44:38 Method Create is executed 
+25.07.2017 19:03:41 Method Create is executing 
+25.07.2017 19:03:41 Method Create is executed 
+25.07.2017 19:05:39 Method Login is executing 
+25.07.2017 19:05:39 authorization was successful 
+25.07.2017 19:05:39 Method Login is executed 
+26.07.2017 14:07:57 Method Login is executing 
+26.07.2017 14:07:57 authorization was successful 
+26.07.2017 14:07:57 Method Login is executed 
+26.07.2017 14:09:19 Method Login is executing 
+26.07.2017 14:09:19 authorization was successful 
+26.07.2017 14:09:19 Method Login is executed 
+26.07.2017 14:09:22 Method BookSearch is executing 
+26.07.2017 14:09:23 Method BookSearch is executed 
+26.07.2017 14:09:26 Method BookSearch is executing 
+26.07.2017 14:09:26 Method BookSearch is executed 
+26.07.2017 14:09:28 Method BookSearch is executing 
+26.07.2017 14:09:28 Method BookSearch is executed 
+26.07.2017 14:09:30 Method BookSearch is executing 
+26.07.2017 14:09:30 Method BookSearch is executed 
+26.07.2017 14:09:31 Method BookSearch is executing 
+26.07.2017 14:09:31 Method BookSearch is executed 
+26.07.2017 14:09:31 Method BookSearch is executing 
+26.07.2017 14:09:31 Method BookSearch is executed 
+26.07.2017 14:11:08 Method Login is executing 
+26.07.2017 14:11:08 authorization was successful 
+26.07.2017 14:11:08 Method Login is executed 
+26.07.2017 14:11:12 Method BookSearch is executing 
+26.07.2017 14:11:12 Method BookSearch is executed 
+26.07.2017 14:11:16 Method BookSearch is executing 
+26.07.2017 14:11:16 Method BookSearch is executed 
+27.07.2017 14:40:24 Method Create is executing 
+27.07.2017 14:40:24 Method Create is executed 
+27.07.2017 14:56:29 Method Create is executing 
+27.07.2017 14:56:29 Method Create is executed 
+27.07.2017 15:03:11 Method Create is executing 
+27.07.2017 15:03:11 Method Create is executed 
+27.07.2017 15:05:27 Method Create is executing 
+27.07.2017 15:05:27 Method Create is executed 
+27.07.2017 15:14:48 Method Edit is executing 
+27.07.2017 15:14:48 Method Edit is executed 
+27.07.2017 15:14:53 Method Edit is executing 
+27.07.2017 15:14:53 Method Edit is executed 
+27.07.2017 15:14:58 Method Edit is executing 
+27.07.2017 15:14:58 Method Edit is executed 
+27.07.2017 15:15:08 Method Delete is executing 
+27.07.2017 15:15:09 Method Delete is executed 
+27.07.2017 15:15:14 Method Delete is executing 
+27.07.2017 15:15:14 Method Delete is executed 
+27.07.2017 15:15:18 Method Delete is executing 
+27.07.2017 15:15:18 Method Delete is executed 
+27.07.2017 15:20:50 Method Delete is executing 
+27.07.2017 15:30:18 Method Edit is executing 
+27.07.2017 15:30:18 Method Edit is executed 
+27.07.2017 15:30:26 Method Delete is executing 
+27.07.2017 15:30:26 Method Delete is executed 
+27.07.2017 15:30:30 Method Edit is executing 
+27.07.2017 15:30:51 Method Edit is executed 
+27.07.2017 15:31:00 Method Edit is executing 
+27.07.2017 15:31:03 Method Edit is executed 
+27.07.2017 15:39:19 Method Create is executing 
+27.07.2017 15:39:19 Method Create is executed 
+27.07.2017 15:39:22 Method Create is executing 
+27.07.2017 15:39:22 Method Create is executed 
+27.07.2017 15:39:27 Method Create is executing 
+27.07.2017 15:39:28 Method Create is executed 
+27.07.2017 15:39:29 Method Create is executing 
+27.07.2017 15:39:29 Method Create is executed 
+27.07.2017 15:39:33 Method Create is executing 
+27.07.2017 15:39:33 Method Create is executed 
+27.07.2017 15:39:58 Method Delete is executing 
+27.07.2017 15:39:58 Method Delete is executed 
+27.07.2017 15:40:02 Method Delete is executing 
+27.07.2017 15:40:02 Method Delete is executed 
+27.07.2017 15:40:04 Method Delete is executing 
+27.07.2017 15:40:04 Method Delete is executed 
+27.07.2017 15:41:08 Method Edit is executing 
+27.07.2017 15:41:08 Method Edit is executed 
+27.07.2017 15:41:11 Method Edit is executing 
+27.07.2017 15:41:11 Method Edit is executed 
+27.07.2017 15:41:15 Method Edit is executing 
+27.07.2017 15:41:15 Method Edit is executed 
+27.07.2017 15:41:22 Method Delete is executing 
+27.07.2017 15:41:22 Method Delete is executed 
+27.07.2017 15:41:54 Method Create is executing 
+27.07.2017 15:41:54 Method Create is executed 
+27.07.2017 15:41:57 Method Create is executing 
+27.07.2017 15:41:57 Method Create is executed 
+27.07.2017 15:42:09 Method Create is executing 
+27.07.2017 15:42:09 Method Create is executed 
+27.07.2017 15:42:11 Method Create is executing 
+27.07.2017 15:42:11 Method Create is executed 
+27.07.2017 15:42:24 Method Create is executing 
+27.07.2017 15:42:24 Method Create is executed 
+27.07.2017 15:42:28 Method Create is executing 
+27.07.2017 15:42:28 Method Create is executed 
+27.07.2017 15:42:33 Method Edit is executing 
+27.07.2017 15:42:33 Method Edit is executed 
+27.07.2017 15:42:49 Method Delete is executing 
+27.07.2017 15:42:49 Method Delete is executed 
+27.07.2017 15:42:57 Method BookSearch is executing 
+27.07.2017 15:42:57 Method BookSearch is executed 
+27.07.2017 15:42:59 Method BookSearch is executing 
+27.07.2017 15:42:59 Method BookSearch is executed 
+27.07.2017 15:43:00 Method BookSearch is executing 
+27.07.2017 15:43:00 Method BookSearch is executed 
+27.07.2017 15:43:01 Method BookSearch is executing 
+27.07.2017 15:43:01 Method BookSearch is executed 
+27.07.2017 15:43:23 Method Edit is executing 
+27.07.2017 15:43:23 Method Edit is executed 
+27.07.2017 15:44:33 Method Delete is executing 
+27.07.2017 15:44:33 Method Delete is executed 
+27.07.2017 15:49:34 Method Edit is executing 
+27.07.2017 15:49:34 Method Edit is executed 
+27.07.2017 15:49:40 Method Edit is executing 
+27.07.2017 15:49:40 Method Edit is executed 
+27.07.2017 16:01:02 Method Edit is executing 
+27.07.2017 18:01:35 Method Create is executing 
+27.07.2017 18:01:35 Method Create is executed 
+27.07.2017 18:01:39 Method Delete is executing 
+27.07.2017 18:01:39 Method Delete is executed 
+27.07.2017 18:03:32 Method Edit is executing 
+27.07.2017 18:03:32 Method Edit is executed 
+27.07.2017 18:03:38 Method Edit is executing 
+27.07.2017 18:03:38 Method Edit is executed 
+27.07.2017 18:18:57 Method Edit is executing 
+27.07.2017 18:24:30 Method Edit is executing 
+27.07.2017 18:48:28 Method Edit is executing 
+27.07.2017 18:48:28 Method Edit is executed 
+27.07.2017 18:49:42 Method Edit is executing 
+27.07.2017 18:49:42 Method Edit is executed 
+27.07.2017 18:50:03 Method Edit is executing 
+27.07.2017 18:50:15 Method Edit is executed 
+27.07.2017 19:02:54 Method Edit is executing 
+27.07.2017 19:02:59 Method Edit is executed 
+27.07.2017 19:03:08 Method Edit is executing 
+27.07.2017 19:03:08 Method Edit is executed 
+27.07.2017 19:03:14 Method Delete is executing 
+27.07.2017 19:03:14 Method Delete is executed 
+27.07.2017 19:03:18 Method Delete is executing 
+27.07.2017 19:03:18 Method Delete is executed 
+27.07.2017 19:03:21 Method Delete is executing 
+27.07.2017 19:03:21 Method Delete is executed 
+28.07.2017 10:24:01 Method Create is executing 
+28.07.2017 10:24:01 Method Create is executed 
+28.07.2017 10:24:10 Method Create is executing 
+28.07.2017 10:24:10 Method Create is executed 
+28.07.2017 10:24:15 Method Create is executing 
+28.07.2017 10:24:16 Method Create is executed 
+28.07.2017 10:24:26 Method Create is executing 
+28.07.2017 10:24:26 Method Create is executed 
+28.07.2017 10:24:49 Method Create is executing 
+28.07.2017 10:24:49 Method Create is executed 
+28.07.2017 10:33:02 Method Edit is executing 
+28.07.2017 10:33:02 Method Edit is executed 
+28.07.2017 10:33:11 Method Create is executing 
+28.07.2017 10:33:11 Method Create is executed 
+28.07.2017 10:33:35 Method Delete is executing 
+28.07.2017 10:33:35 Method Delete is executed 
+28.07.2017 10:33:38 Method Delete is executing 
+28.07.2017 10:33:38 Method Delete is executed 
+28.07.2017 10:35:09 Method Edit is executing 
+28.07.2017 10:35:09 Method Edit is executed 
+28.07.2017 10:35:31 Method Login is executing 
+28.07.2017 10:35:31 authorization was successful 
+28.07.2017 10:35:31 Method Login is executed 
+28.07.2017 10:35:44 Method Login is executing 
+28.07.2017 10:35:44 authorization was successful 
+28.07.2017 10:35:44 Method Login is executed 
+28.07.2017 10:35:48 Method Register is executing 
+28.07.2017 10:35:48 Method Register is executed 
+28.07.2017 10:35:52 Method Register is executing 
+28.07.2017 10:35:52 Method Register is executed 
+28.07.2017 10:36:38 Method Login is executing 
+28.07.2017 10:36:38 authorization was successful 
+28.07.2017 10:36:38 Method Login is executed 
+28.07.2017 12:14:43 Method Edit is executing 
+28.07.2017 12:14:43 Method Edit is executed 
+28.07.2017 12:14:49 Method Edit is executing 
+28.07.2017 12:14:49 Method Edit is executed 
+28.07.2017 12:30:47 Method Edit is executing 
+28.07.2017 12:30:47 Method Edit is executed 
+28.07.2017 12:31:19 Method Login is executing 
+28.07.2017 12:31:19 authorization was successful 
+28.07.2017 12:31:19 Method Login is executed 
+28.07.2017 12:31:32 Method Register is executing 
+28.07.2017 12:31:32 Method Register is executed 
+28.07.2017 12:31:38 Method Login is executing 
+28.07.2017 12:31:38 authorization was successful 
+28.07.2017 12:31:38 Method Login is executed 
+28.07.2017 12:31:47 Method Login is executing 
+28.07.2017 12:31:47 authorization was successful 
+28.07.2017 12:31:47 Method Login is executed 
+28.07.2017 12:32:16 Method Edit is executing 
+28.07.2017 12:32:16 Method Edit is executed 
+28.07.2017 12:36:11 Method Edit is executing 
+28.07.2017 12:36:11 Method Edit is executed 
+28.07.2017 12:36:16 Method Edit is executing 
+28.07.2017 12:36:16 Method Edit is executed 
+28.07.2017 12:39:55 Method Edit is executing 
+28.07.2017 12:39:55 Method Edit is executed 
+28.07.2017 12:39:57 Method Edit is executing 
+28.07.2017 12:39:57 Method Edit is executed 
+28.07.2017 12:43:14 Method Edit is executing 
+28.07.2017 12:43:14 Method Edit is executed 
+28.07.2017 13:35:16 Method Edit is executing 
+28.07.2017 13:35:16 Method Edit is executed 
+28.07.2017 13:35:20 Method Edit is executing 
+28.07.2017 13:35:20 Method Edit is executed 
+28.07.2017 13:35:26 Method Edit is executing 
+28.07.2017 13:35:26 Method Edit is executed 
+28.07.2017 13:41:31 Method Create is executing 
+28.07.2017 13:41:31 Method Create is executed 
+28.07.2017 13:41:35 Method Create is executing 
+28.07.2017 13:41:35 Method Create is executed 
+28.07.2017 13:41:43 Method Create is executing 
+28.07.2017 13:41:43 Method Create is executed 
+28.07.2017 13:41:48 Method Create is executing 
+28.07.2017 13:41:48 Method Create is executed 
+28.07.2017 13:42:00 Method Delete is executing 
+28.07.2017 13:42:00 Method Delete is executed 
+28.07.2017 13:42:03 Method Delete is executing 
+28.07.2017 13:42:03 Method Delete is executed 
+28.07.2017 13:45:05 Method Edit is executing 
+28.07.2017 13:45:05 Method Edit is executed 
+28.07.2017 13:45:51 Method Edit is executing 
+28.07.2017 13:45:51 Method Edit is executed 
+28.07.2017 13:45:58 Method Edit is executing 
+28.07.2017 13:45:58 Method Edit is executed 
+28.07.2017 13:46:30 Method Edit is executing 
+28.07.2017 13:46:30 Method Edit is executed 
+28.07.2017 13:46:35 Method Edit is executing 
+28.07.2017 13:46:35 Method Edit is executed 
+28.07.2017 13:46:47 Method Delete is executing 
+28.07.2017 13:46:47 Method Delete is executed 
+28.07.2017 13:47:04 Method Delete is executing 
+28.07.2017 13:47:04 Method Delete is executed 
+28.07.2017 13:47:07 Method Delete is executing 
+28.07.2017 13:47:07 Method Delete is executed 
+28.07.2017 13:47:12 Method Delete is executing 
+28.07.2017 13:47:12 Method Delete is executed 
+28.07.2017 13:47:16 Method Delete is executing 
+28.07.2017 13:47:16 Method Delete is executed 
+28.07.2017 14:03:10 Method Edit is executing 
+28.07.2017 14:03:10 Method Edit is executed 
+28.07.2017 14:03:22 Method Edit is executing 
+28.07.2017 14:03:57 Method Edit is executed 
+28.07.2017 14:04:09 Method Edit is executing 
+28.07.2017 14:04:09 Method Edit is executed 
+28.07.2017 14:42:30 Method Login is executing 
+28.07.2017 14:42:30 Method Login is executed 
+28.07.2017 14:42:41 Method Login is executing 
+28.07.2017 14:42:41 authorization was successful 
+28.07.2017 14:42:41 Method Login is executed 
+28.07.2017 14:45:23 Method Login is executing 
+28.07.2017 14:45:23 authorization was successful 
+28.07.2017 14:45:23 Method Login is executed 
+28.07.2017 14:47:28 Method Login is executing 
+28.07.2017 14:47:28 authorization was successful 
+28.07.2017 14:47:28 Method Login is executed 
+28.07.2017 14:50:25 Method Login is executing 
+28.07.2017 14:50:25 authorization was successful 
+28.07.2017 14:50:25 Method Login is executed 
+28.07.2017 15:59:50 Method Edit is executing 
+28.07.2017 15:59:50 Method Edit is executed 
+28.07.2017 15:59:53 Method Edit is executing 
+28.07.2017 16:02:54 Method Edit is executing 
+28.07.2017 16:02:54 Method Edit is executed 
+28.07.2017 16:03:01 Method Edit is executing 
+28.07.2017 16:03:01 Method Edit is executed 
+28.07.2017 16:03:04 Method Edit is executing 
+28.07.2017 16:03:04 Method Edit is executed 
+28.07.2017 16:03:19 Method Login is executing 
+28.07.2017 16:03:19 authorization was successful 
+28.07.2017 16:03:19 Method Login is executed 
+28.07.2017 16:07:38 Method BookSearch is executing 
+28.07.2017 16:07:39 Method BookSearch is executed 
+28.07.2017 16:07:44 Method BookSearch is executing 
+28.07.2017 16:07:44 Method BookSearch is executed 
+28.07.2017 16:10:48 Method Login is executing 
+28.07.2017 16:10:48 authorization was successful 
+28.07.2017 16:10:48 Method Login is executed 
+28.07.2017 16:10:54 Method Register is executing 
+28.07.2017 16:10:55 Method Register is executed 
+28.07.2017 16:10:57 Method Register is executing 
+28.07.2017 16:10:57 Method Register is executed 
+28.07.2017 16:14:17 Method Login is executing 
+28.07.2017 16:14:18 authorization was successful 
+28.07.2017 16:14:18 Method Login is executed 
+28.07.2017 16:14:26 Method Register is executing 
+28.07.2017 16:14:27 Method Register is executed 
+28.07.2017 17:24:06 Method Login is executing 
+28.07.2017 17:24:06 authorization was successful 
+28.07.2017 17:24:06 Method Login is executed 
+28.07.2017 17:30:02 Method Login is executing 
+28.07.2017 17:30:02 authorization was successful 
+28.07.2017 17:30:02 Method Login is executed 
+31.07.2017 09:53:24 Method Login is executing 
+31.07.2017 09:53:24 authorization was successful 
+31.07.2017 09:53:24 Method Login is executed 
+31.07.2017 10:42:44 Method Login is executing 
+31.07.2017 10:42:45 authorization was successful 
+31.07.2017 10:42:45 Method Login is executed 
+31.07.2017 11:36:20 Method Delete is executing 
+31.07.2017 11:36:20 Method Delete is executed 
+31.07.2017 11:40:20 Method Edit is executing 
+31.07.2017 11:53:25 Method Edit is executing 
+31.07.2017 11:53:25 Method Edit is executed 
+31.07.2017 11:53:29 Method Edit is executing 
+31.07.2017 11:53:29 Method Edit is executed 
+31.07.2017 11:53:41 Method Edit is executing 
+31.07.2017 11:53:41 Method Edit is executed 
+31.07.2017 12:09:07 Method Create is executing 
+31.07.2017 12:09:07 Method Create is executed 
+31.07.2017 12:09:16 Method Delete is executing 
+31.07.2017 12:09:16 Method Delete is executed 
+31.07.2017 12:09:35 Method Create is executing 
+31.07.2017 12:09:35 Method Create is executed 
+31.07.2017 12:14:45 Method BookSearch is executing 
+31.07.2017 12:14:46 Method BookSearch is executed 
+31.07.2017 12:14:48 Method BookSearch is executing 
+31.07.2017 12:14:48 Method BookSearch is executed 
+31.07.2017 18:20:08 Method Edit is executing 
+31.07.2017 18:20:09 Method Edit is executed 
+31.07.2017 18:20:26 Method Create is executing 
+31.07.2017 18:20:26 Method Create is executed 
+31.07.2017 18:20:52 Method Edit is executing 
+31.07.2017 18:20:52 Method Edit is executed 
+31.07.2017 18:20:56 Method Edit is executing 
+31.07.2017 18:20:56 Method Edit is executed 
+31.07.2017 18:21:01 Method Delete is executing 
+31.07.2017 18:21:02 Method Delete is executed 
+31.07.2017 18:21:07 Method Delete is executing 
+31.07.2017 18:21:07 Method Delete is executed 
+31.07.2017 18:23:39 Method Create is executing 
+31.07.2017 18:23:40 Method Create is executed 
+31.07.2017 18:23:43 Method Delete is executing 
+31.07.2017 18:23:43 Method Delete is executed 
+31.07.2017 18:23:48 Method Delete is executing 
+31.07.2017 18:23:48 Method Delete is executed 
+31.07.2017 19:36:00 Method Login is executing 
+31.07.2017 19:36:00 authorization was successful 
+31.07.2017 19:36:00 Method Login is executed 
+31.07.2017 19:36:09 Method Edit is executing 
+31.07.2017 19:36:09 Method Edit is executed 
+31.07.2017 19:36:19 Method Edit is executing 
+31.07.2017 19:36:19 Method Edit is executed 
+31.07.2017 19:36:23 Method Edit is executing 
+31.07.2017 19:36:23 Method Edit is executed 
+31.07.2017 19:36:26 Method Edit is executing 
+31.07.2017 19:36:26 Method Edit is executed 
+31.07.2017 19:37:08 Method Edit is executing 
+31.07.2017 19:41:49 Method Edit is executing 
+31.07.2017 19:41:49 Method Edit is executed 
+31.07.2017 19:41:52 Method Edit is executing 
+31.07.2017 19:41:52 Method Edit is executed 
+31.07.2017 19:45:37 Method Edit is executing 
+31.07.2017 19:45:37 Method Edit is executed 
+31.07.2017 19:46:07 Method Edit is executing 
+31.07.2017 19:46:07 Method Edit is executed 
+31.07.2017 19:50:34 Method Edit is executing 
+31.07.2017 19:50:34 Method Edit is executed 
+31.07.2017 19:50:54 Method Edit is executing 
+31.07.2017 19:50:54 Method Edit is executed 
+31.07.2017 19:51:10 Method Edit is executing 
+31.07.2017 19:59:51 Method Edit is executing 
+31.07.2017 19:59:51 Method Edit is executed 
+31.07.2017 20:00:06 Method Delete is executing 
+31.07.2017 20:00:06 Method Delete is executed 
+31.07.2017 20:00:16 Method BookSearch is executing 
+31.07.2017 20:01:30 Method BookSearch is executing 
+31.07.2017 20:01:30 Method BookSearch is executed 
+31.07.2017 20:01:33 Method BookSearch is executing 
+31.07.2017 20:01:33 Method BookSearch is executed 
+31.07.2017 20:01:36 Method Edit is executing 
+31.07.2017 20:01:36 Method Edit is executed 
+31.07.2017 20:09:29 Method Edit is executing 
+31.07.2017 20:09:29 Method Edit is executed 
+31.07.2017 20:09:36 Method Delete is executing 
+31.07.2017 20:09:36 Method Delete is executed 
+31.07.2017 20:13:52 Method Create is executing 
+31.07.2017 20:13:52 Method Create is executed 
+31.07.2017 20:13:56 Method Create is executing 
+31.07.2017 20:13:56 Method Create is executed 
+31.07.2017 20:13:59 Method Create is executing 
+31.07.2017 20:13:59 Method Create is executed 
+31.07.2017 20:16:49 Method Create is executing 
+31.07.2017 20:16:49 Method Create is executed 
+31.07.2017 20:16:52 Method Delete is executing 
+31.07.2017 20:16:52 Method Delete is executed 
+31.07.2017 20:16:54 Method Delete is executing 
+31.07.2017 20:16:54 Method Delete is executed 
+31.07.2017 20:16:56 Method Delete is executing 
+31.07.2017 20:16:56 Method Delete is executed 
+01.08.2017 10:37:17 Method Edit is executing 
+01.08.2017 10:37:17 Method Edit is executed 
+01.08.2017 10:37:20 Method Edit is executing 
+01.08.2017 10:37:20 Method Edit is executed 
+01.08.2017 12:17:42 Method Create is executing 
+01.08.2017 12:17:42 Order is not created 
+01.08.2017 12:17:42 Method Create is executed 
+01.08.2017 12:22:59 Method Create is executing 
+01.08.2017 12:23:50 Order is not created 
+01.08.2017 12:51:56 Method Create is executing 
+01.08.2017 12:51:56 Order is not created 
+01.08.2017 12:51:56 Method Create is executed 
+01.08.2017 12:52:51 Method Create is executing 
+01.08.2017 12:52:51 Method Create is executed 
+01.08.2017 12:53:03 Method BookSearch is executing 
+01.08.2017 12:53:03 Method BookSearch is executed 
+01.08.2017 12:53:04 Method BookSearch is executing 
+01.08.2017 12:53:04 Method BookSearch is executed 
+01.08.2017 16:30:44 Method Edit is executing 
+01.08.2017 16:30:44 Method Edit is executed 
+01.08.2017 16:30:49 Method Edit is executing 
+01.08.2017 16:30:49 Method Edit is executed 
+01.08.2017 16:31:01 Method Login is executing 
+01.08.2017 16:31:52 Method Login is executed 
+01.08.2017 16:34:09 Method Login is executing 
+01.08.2017 16:43:30 Method Login is executing 
+01.08.2017 16:43:31 authorization was successful 
+01.08.2017 16:43:31 Method Login is executed 
+01.08.2017 17:30:09 Method Create is executing 
+01.08.2017 17:30:09 Method Create is executed 
+01.08.2017 17:34:38 Method Login is executing 
+01.08.2017 17:34:38 authorization was successful 
+01.08.2017 17:34:38 Method Login is executed 
+01.08.2017 19:21:00 Method Create is executing 
+01.08.2017 19:21:00 Method Create is executed 
+01.08.2017 19:57:19 Method Edit is executing 
+01.08.2017 19:57:19 Method Edit is executed 
+01.08.2017 20:39:02 Method Login is executing 
+01.08.2017 20:39:02 authorization was successful 
+01.08.2017 20:39:02 Method Login is executed 
+02.08.2017 12:24:36 Method Create is executing 
+02.08.2017 12:24:38 Method Create is executed 
+02.08.2017 12:24:46 Method Create is executing 
+02.08.2017 12:24:46 Method Create is executed 
+02.08.2017 12:26:43 Method Create is executing 
+02.08.2017 12:26:43 Method Create is executed 
+02.08.2017 12:27:00 Method Create is executing 
+02.08.2017 12:28:25 Method Create is executed 
+02.08.2017 12:28:30 Method Create is executing 
+02.08.2017 12:30:51 Method Create is executed 
+02.08.2017 12:31:23 Method Create is executing 
+02.08.2017 12:35:10 Method Create is executing 
+02.08.2017 12:37:16 Method Create is executed 
+02.08.2017 12:37:16 Method Create is executing 
+02.08.2017 12:37:16 Method Create is executed 
+02.08.2017 12:37:22 Method Create is executing 
+02.08.2017 12:37:24 Method Create is executed 
+02.08.2017 12:47:50 Method Create is executing 
+02.08.2017 12:47:52 Method Create is executed 
+02.08.2017 13:14:46 Method Create is executing 
+02.08.2017 13:14:49 Method Create is executed 
+02.08.2017 13:19:43 Method Create is executing 
+02.08.2017 13:19:45 Method Create is executed 
+02.08.2017 13:22:25 Method Create is executing 
+02.08.2017 13:22:27 Method Create is executed 
+02.08.2017 13:22:55 Method Delete is executing 
+02.08.2017 13:22:55 Method Delete is executed 
+02.08.2017 13:22:57 Method Delete is executing 
+02.08.2017 13:22:57 Method Delete is executed 
+02.08.2017 13:22:59 Method Delete is executing 
+02.08.2017 13:22:59 Method Delete is executed 
+02.08.2017 14:50:42 Method Create is executing 
+02.08.2017 14:50:45 Method Create is executed 
+02.08.2017 14:58:50 Method Create is executing 
+02.08.2017 14:58:52 Method Create is executed 
+02.08.2017 15:01:36 Method Create is executing 
+02.08.2017 15:04:07 Method Create is executing 
+02.08.2017 15:04:09 Method Create is executed 
+02.08.2017 16:00:01 Method Create is executing 
+02.08.2017 16:00:03 Method Create is executed 
+02.08.2017 16:00:43 Method Create is executing 
+02.08.2017 16:00:45 Method Create is executed 
+02.08.2017 17:07:56 Method Login is executing 
+02.08.2017 17:07:56 authorization was successful 
+02.08.2017 17:07:56 Method Login is executed 
+02.08.2017 17:08:07 Method Edit is executing 
+02.08.2017 17:08:07 Method Edit is executed 
+02.08.2017 17:08:44 Method Edit is executing 
+02.08.2017 17:08:44 Method Edit is executed 
+02.08.2017 17:08:55 Method Edit is executing 
+02.08.2017 17:11:30 Method Edit is executing 
+02.08.2017 17:11:30 Method Edit is executed 
+02.08.2017 17:11:39 Method Edit is executing 
+02.08.2017 17:11:39 Method Edit is executed 
+02.08.2017 17:11:43 Method Edit is executing 
+02.08.2017 17:11:43 Method Edit is executed 
+02.08.2017 17:12:29 Method Edit is executing 
+02.08.2017 17:14:05 Method Edit is executing 
+02.08.2017 17:14:06 Method Edit is executed 
+02.08.2017 17:14:12 Method Edit is executing 
+02.08.2017 17:14:13 Method Edit is executed 
+02.08.2017 17:43:38 Method Edit is executing 
+02.08.2017 17:43:38 Method Edit is executed 
+02.08.2017 17:43:48 Method Edit is executing 
+02.08.2017 17:43:48 Method Edit is executed 
+02.08.2017 17:43:57 Method Edit is executing 
+02.08.2017 17:47:18 Method Edit is executing 
+02.08.2017 17:47:18 Method Edit is executed 
+02.08.2017 17:47:25 Method Edit is executing 
+02.08.2017 17:47:25 Method Edit is executed 
+02.08.2017 17:47:31 Method Edit is executing 
+02.08.2017 17:47:31 Method Edit is executed 
+02.08.2017 17:58:54 Method Edit is executing 
+02.08.2017 17:58:54 Method Edit is executed 
+02.08.2017 17:59:05 Method Edit is executing 
+02.08.2017 17:59:05 Method Edit is executed 
+02.08.2017 18:45:39 Method BookSearch is executing 
+02.08.2017 18:49:12 Method BookSearch is executing 
+02.08.2017 18:55:20 Method BookSearch is executing 
+02.08.2017 18:55:20 Method BookSearch is executed 
+02.08.2017 18:55:37 Method BookSearch is executing 
+02.08.2017 18:55:37 Method BookSearch is executed 
+02.08.2017 18:55:38 Method BookSearch is executing 
+02.08.2017 18:55:38 Method BookSearch is executed 
+02.08.2017 18:56:01 Method BookSearch is executing 
+02.08.2017 18:56:16 Method BookSearch is executed 
+02.08.2017 18:56:18 Method BookSearch is executing 
+02.08.2017 19:20:45 Method BookSearch is executing 
+02.08.2017 19:20:45 Method BookSearch is executed 
+02.08.2017 19:20:53 Method BookSearch is executing 
+02.08.2017 19:20:53 Method BookSearch is executed 
+02.08.2017 19:20:55 Method BookSearch is executing 
+02.08.2017 19:20:55 Method BookSearch is executed 
+02.08.2017 19:20:57 Method BookSearch is executing 
+02.08.2017 19:20:57 Method BookSearch is executed 
+02.08.2017 19:21:22 Method BookSearch is executing 
+02.08.2017 19:21:22 Method BookSearch is executed 
+02.08.2017 19:21:24 Method BookSearch is executing 
+02.08.2017 19:21:24 Method BookSearch is executed 
+02.08.2017 20:21:33 Method BookSearch is executing 
+02.08.2017 20:21:34 Method BookSearch is executed 
+02.08.2017 20:21:37 Method BookSearch is executing 
+02.08.2017 20:21:37 Method BookSearch is executed 
+02.08.2017 20:35:35 Method Create is executing 
+02.08.2017 20:35:38 Method Create is executed 
+02.08.2017 20:35:41 Method BookSearch is executing 
+02.08.2017 20:35:41 Method BookSearch is executed 
+03.08.2017 13:02:11 Method Login is executing 
+03.08.2017 13:02:12 authorization was successful 
+03.08.2017 13:02:12 Method Login is executed 
+03.08.2017 13:14:12 Method Create is executing 
+03.08.2017 13:19:52 Method Create is executing 
+03.08.2017 14:25:37 Method Create is executing 
+03.08.2017 14:25:54 Method Create is executed 
+03.08.2017 14:26:42 Method Create is executing 
+03.08.2017 14:26:45 Method Create is executed 
+03.08.2017 14:30:34 Method Login is executing 
+03.08.2017 14:30:34 authorization was successful 
+03.08.2017 14:30:34 Method Login is executed 
+03.08.2017 14:30:42 Method Create is executing 
+03.08.2017 14:31:01 Method Create is executed 
+03.08.2017 14:31:11 Method Create is executing 
+03.08.2017 14:31:16 Method Create is executed 
+03.08.2017 14:32:55 Method Create is executing 
+03.08.2017 14:32:55 Method Create is executed 
+03.08.2017 14:34:11 Method Create is executing 
+03.08.2017 14:35:31 Method Create is executing 
+03.08.2017 14:37:15 Method Create is executing 
+03.08.2017 14:37:15 Method Create is executed 
+03.08.2017 14:37:29 Method Create is executing 
+03.08.2017 14:37:29 Method Create is executed 
+03.08.2017 14:37:35 Method Create is executing 
+03.08.2017 14:37:38 Method Create is executed 
+03.08.2017 14:49:49 Method Create is executing 
+03.08.2017 14:49:49 Method Create is executed 
+03.08.2017 14:49:54 Method Create is executing 
+03.08.2017 14:49:54 Method Create is executed 
+03.08.2017 15:51:21 Method Create is executing 
+03.08.2017 15:51:21 Method Create is executed 
+03.08.2017 15:52:54 Method Create is executing 
+03.08.2017 15:52:54 Method Create is executed 
+03.08.2017 17:08:37 Method Create is executing 
+03.08.2017 17:10:27 Method Create is executed 
+03.08.2017 18:00:59 Method Create is executing 
+03.08.2017 18:01:02 Method Create is executed 
+03.08.2017 18:02:25 Method Create is executing 
+03.08.2017 18:02:25 Method Create is executed 
+03.08.2017 18:18:16 Method Create is executing 
+03.08.2017 18:18:28 Method Create is executed 
+03.08.2017 18:19:33 Method Create is executing 
+03.08.2017 18:19:57 Method Create is executed 
+03.08.2017 18:20:05 Method Create is executing 
+03.08.2017 18:31:32 Method Create is executing 
+03.08.2017 18:45:24 Method Create is executing 
+03.08.2017 18:54:12 Method Create is executing 
+03.08.2017 18:59:24 Method Create is executing 
+03.08.2017 19:09:58 Method Create is executing 
+03.08.2017 19:11:28 Method Create is executing 
+03.08.2017 19:12:49 Method Create is executing 
+03.08.2017 19:14:39 Method Create is executing 
+03.08.2017 19:14:43 Method Create is executed 
+03.08.2017 19:17:04 Method Create is executing 
+03.08.2017 19:17:09 Method Create is executed 
+03.08.2017 19:19:48 Method Create is executing 
+03.08.2017 19:23:56 Method Create is executing 
+03.08.2017 19:24:02 Method Create is executed 
+03.08.2017 19:26:27 Method Edit is executing 
+03.08.2017 19:28:17 Method Edit is executing 
+03.08.2017 19:28:17 Method Edit is executed 
+03.08.2017 19:29:26 Method Edit is executing 
+03.08.2017 19:29:26 Method Edit is executed 
+03.08.2017 19:32:27 Method Create is executing 
+03.08.2017 19:32:30 Method Create is executed 
+03.08.2017 19:37:34 Method Create is executing 
+03.08.2017 19:37:39 Method Create is executed 
+03.08.2017 19:41:03 Method Login is executing 
+03.08.2017 19:41:04 authorization was successful 
+03.08.2017 19:41:04 Method Login is executed 
+03.08.2017 19:41:18 Method Edit is executing 
+03.08.2017 19:41:18 Method Edit is executed 
+03.08.2017 19:47:26 Method Create is executing 
+03.08.2017 19:47:29 Method Create is executed 
+03.08.2017 19:48:06 Method Login is executing 
+03.08.2017 19:48:06 authorization was successful 
+03.08.2017 19:48:06 Method Login is executed 
+03.08.2017 19:48:22 Method Edit is executing 
+03.08.2017 19:48:22 Method Edit is executed 
+03.08.2017 19:48:38 Method Edit is executing 
+03.08.2017 19:48:38 Method Edit is executed 
+03.08.2017 19:48:59 Method Edit is executing 
+03.08.2017 19:48:59 Method Edit is executed 
+03.08.2017 19:49:13 Method Edit is executing 
+03.08.2017 19:49:13 Method Edit is executed 
+03.08.2017 20:20:06 Method Delete is executing 
+03.08.2017 20:20:06 Method Delete is executed 
+03.08.2017 20:20:08 Method Delete is executing 
+03.08.2017 20:20:08 Method Delete is executed 
+03.08.2017 20:20:10 Method Delete is executing 
+03.08.2017 20:20:10 Method Delete is executed 
+03.08.2017 20:20:12 Method Delete is executing 
+03.08.2017 20:20:12 Method Delete is executed 
+03.08.2017 20:20:14 Method Delete is executing 
+03.08.2017 20:20:14 Method Delete is executed 
+03.08.2017 20:20:17 Method Delete is executing 
+03.08.2017 20:20:17 Method Delete is executed 
+03.08.2017 20:20:19 Method Delete is executing 
+03.08.2017 20:20:19 Method Delete is executed 
+03.08.2017 20:20:20 Method Delete is executing 
+03.08.2017 20:20:20 Method Delete is executed 
+03.08.2017 20:20:22 Method Delete is executing 
+03.08.2017 20:20:22 Method Delete is executed 
+03.08.2017 20:20:24 Method Delete is executing 
+03.08.2017 20:20:24 Method Delete is executed 
+03.08.2017 20:20:25 Method Delete is executing 
+03.08.2017 20:20:25 Method Delete is executed 
+03.08.2017 20:20:27 Method Delete is executing 
+03.08.2017 20:20:27 Method Delete is executed 
+03.08.2017 20:20:29 Method Delete is executing 
+03.08.2017 20:20:29 Method Delete is executed 
+03.08.2017 20:20:31 Method Delete is executing 
+03.08.2017 20:20:31 Method Delete is executed 
+03.08.2017 20:20:33 Method Delete is executing 
+03.08.2017 20:20:34 Method Delete is executed 
+03.08.2017 20:20:35 Method Delete is executing 
+03.08.2017 20:20:35 Method Delete is executed 
+03.08.2017 20:20:38 Method Delete is executing 
+03.08.2017 20:20:38 Method Delete is executed 
+03.08.2017 20:20:40 Method Delete is executing 
+03.08.2017 20:20:40 Method Delete is executed 
+03.08.2017 20:20:41 Method Delete is executing 
+03.08.2017 20:20:41 Method Delete is executed 
+03.08.2017 20:20:43 Method Delete is executing 
+03.08.2017 20:20:43 Method Delete is executed 
+03.08.2017 20:20:45 Method Delete is executing 
+03.08.2017 20:20:45 Method Delete is executed 
+03.08.2017 20:20:47 Method Delete is executing 
+03.08.2017 20:20:47 Method Delete is executed 
+03.08.2017 20:20:50 Method Delete is executing 
+03.08.2017 20:20:50 Method Delete is executed 
+03.08.2017 20:20:52 Method Delete is executing 
+03.08.2017 20:20:52 Method Delete is executed 
+03.08.2017 20:20:55 Method Delete is executing 
+03.08.2017 20:20:55 Method Delete is executed 
+03.08.2017 20:20:57 Method Delete is executing 
+03.08.2017 20:20:57 Method Delete is executed 
+03.08.2017 20:20:59 Method Delete is executing 
+03.08.2017 20:20:59 Method Delete is executed 
+03.08.2017 20:21:01 Method Delete is executing 
+03.08.2017 20:21:01 Method Delete is executed 
+03.08.2017 20:21:03 Method Delete is executing 
+03.08.2017 20:21:03 Method Delete is executed 
+03.08.2017 20:21:05 Method Delete is executing 
+03.08.2017 20:21:05 Method Delete is executed 
+03.08.2017 20:21:07 Method Delete is executing 
+03.08.2017 20:21:07 Method Delete is executed 
+03.08.2017 20:21:09 Method Delete is executing 
+03.08.2017 20:21:09 Method Delete is executed 
+03.08.2017 20:21:11 Method Delete is executing 
+03.08.2017 20:21:11 Method Delete is executed 
+03.08.2017 20:21:14 Method Delete is executing 
+03.08.2017 20:21:14 Method Delete is executed 
+03.08.2017 20:21:15 Method Delete is executing 
+03.08.2017 20:21:15 Method Delete is executed 
+03.08.2017 20:21:22 Method Delete is executing 
+03.08.2017 20:21:22 Method Delete is executed 
+03.08.2017 20:21:59 Method Login is executing 
+03.08.2017 20:21:59 Method Login is executed 
+03.08.2017 20:22:02 Method Login is executing 
+03.08.2017 20:22:02 authorization was successful 
+03.08.2017 20:22:02 Method Login is executed 
+03.08.2017 20:22:11 Method Edit is executing 
+03.08.2017 20:23:29 Method Edit is executing 
+03.08.2017 20:23:29 Method Edit is executed 
+03.08.2017 20:25:30 Method Login is executing 
+03.08.2017 20:25:30 authorization was successful 
+03.08.2017 20:25:30 Method Login is executed 
+03.08.2017 20:35:23 Method Create is executing 
+03.08.2017 20:35:26 Method Create is executed 
+03.08.2017 20:35:32 Method Edit is executing 
+03.08.2017 20:35:32 Method Edit is executed 
+03.08.2017 20:48:02 Method Create is executing 
+03.08.2017 20:48:04 Method Create is executed 
+03.08.2017 20:50:45 Method Create is executing 
+03.08.2017 20:50:47 Method Create is executed 
+03.08.2017 20:58:16 Method Create is executing 
+03.08.2017 21:10:04 Method Create is executing 
+03.08.2017 21:10:06 Method Create is executed 
+03.08.2017 21:16:06 Method Create is executing 
+03.08.2017 21:16:08 Method Create is executed 
+04.08.2017 12:57:06 Method Create is executing 
+04.08.2017 12:57:09 Method Create is executed 
+04.08.2017 12:59:00 Method Create is executing 
+04.08.2017 12:59:02 Method Create is executed 
+04.08.2017 14:53:45 Method Login is executing 
+04.08.2017 14:53:46 authorization was successful 
+04.08.2017 14:53:46 Method Login is executed 
+04.08.2017 14:53:57 Method Login is executing 
+04.08.2017 14:53:57 authorization was successful 
+04.08.2017 14:53:57 Method Login is executed 
+04.08.2017 14:54:02 Method Register is executing 
+04.08.2017 14:59:27 Method Create is executing 
+04.08.2017 14:59:40 Method Create is executed 
+04.08.2017 14:59:45 Method Delete is executing 
+04.08.2017 14:59:45 Method Delete is executed 
+04.08.2017 16:18:31 Method Login is executing 
+04.08.2017 16:18:31 authorization was successful 
+04.08.2017 16:18:31 Method Login is executed 
+04.08.2017 16:19:00 Method Login is executing 
+04.08.2017 16:20:14 authorization was successful 
+07.08.2017 12:49:42 Start installing Hangfire SQL objects... 
+07.08.2017 12:49:44 Hangfire SQL objects installed. 
+07.08.2017 12:49:44 Starting Hangfire Server 
+07.08.2017 12:49:44 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 12:49:44 Using the following options for SQL Server job storage: 
+07.08.2017 12:49:44     Queue poll interval: 00:00:01. 
+07.08.2017 12:49:44 Using the following options for Hangfire Server: 
+07.08.2017 12:49:44     Worker count: 20 
+07.08.2017 12:49:44     Listening queues: 'default' 
+07.08.2017 12:49:44     Shutdown timeout: 00:00:15 
+07.08.2017 12:49:44     Schedule polling interval: 00:00:15 
+07.08.2017 12:49:44 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 12:49:45 Background process 'ServerHeartbeat' started. 
+07.08.2017 12:49:45 Background process 'ServerWatchdog' started. 
+07.08.2017 12:49:45 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 12:49:45 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 12:49:45 Aggregating records in 'Counter' table... 
+07.08.2017 12:49:45 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 12:49:45 Background process 'Worker #a9c09744' started. 
+07.08.2017 12:49:45 Background process 'Worker #d3126379' started. 
+07.08.2017 12:49:45 Background process 'Worker #e10774e0' started. 
+07.08.2017 12:49:45 Background process 'Worker #b9e750e9' started. 
+07.08.2017 12:49:45 Background process 'Worker #f14daca4' started. 
+07.08.2017 12:49:45 Background process 'Worker #f4f59ed8' started. 
+07.08.2017 12:49:45 Background process 'Worker #1cecf87d' started. 
+07.08.2017 12:49:45 Background process 'Worker #41deec60' started. 
+07.08.2017 12:49:45 Background process 'Worker #3f7f1d80' started. 
+07.08.2017 12:49:45 Background process 'Worker #a3572bba' started. 
+07.08.2017 12:49:45 Background process 'Worker #709fc5e0' started. 
+07.08.2017 12:49:45 Background process 'Worker #c33e5862' started. 
+07.08.2017 12:49:45 Background process 'Worker #898d636e' started. 
+07.08.2017 12:49:45 Background process 'Worker #95791577' started. 
+07.08.2017 12:49:45 Background process 'Worker #539f489b' started. 
+07.08.2017 12:49:45 Background process 'Worker #0a891f3b' started. 
+07.08.2017 12:49:45 Background process 'Worker #ca7d1d9c' started. 
+07.08.2017 12:49:45 Background process 'Worker #7c243bcb' started. 
+07.08.2017 12:49:45 Background process 'Worker #b7201238' started. 
+07.08.2017 12:49:45 Background process 'Worker #941162e4' started. 
+07.08.2017 12:49:45 Background process 'DelayedJobScheduler' started. 
+07.08.2017 12:49:45 Background process 'RecurringJobScheduler' started. 
+07.08.2017 12:49:45 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 12:49:45 Removing outdated records from the 'Job' table... 
+07.08.2017 12:49:46 Records from the 'Counter' table aggregated. 
+07.08.2017 12:49:46 Outdated records removed from the 'Job' table. 
+07.08.2017 12:49:46 Removing outdated records from the 'List' table... 
+07.08.2017 12:49:46 Outdated records removed from the 'List' table. 
+07.08.2017 12:49:46 Removing outdated records from the 'Set' table... 
+07.08.2017 12:49:46 Outdated records removed from the 'Set' table. 
+07.08.2017 12:49:46 Removing outdated records from the 'Hash' table... 
+07.08.2017 12:49:46 Outdated records removed from the 'Hash' table. 
+07.08.2017 12:49:57 Method Login is executing 
+07.08.2017 12:49:57 Method Login is executed 
+07.08.2017 12:50:02 Method Login is executing 
+07.08.2017 12:50:02 Method Login is executed 
+07.08.2017 12:50:05 Method Login is executing 
+07.08.2017 12:50:05 authorization was successful 
+07.08.2017 12:50:05 Method Login is executed 
+07.08.2017 12:50:33 Method Create is executing 
+07.08.2017 12:52:09 Start installing Hangfire SQL objects... 
+07.08.2017 12:52:10 Hangfire SQL objects installed. 
+07.08.2017 12:52:10 Starting Hangfire Server 
+07.08.2017 12:52:10 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 12:52:10 Using the following options for SQL Server job storage: 
+07.08.2017 12:52:10     Queue poll interval: 00:00:01. 
+07.08.2017 12:52:10 Using the following options for Hangfire Server: 
+07.08.2017 12:52:10     Worker count: 20 
+07.08.2017 12:52:10     Listening queues: 'default' 
+07.08.2017 12:52:10     Shutdown timeout: 00:00:15 
+07.08.2017 12:52:10     Schedule polling interval: 00:00:15 
+07.08.2017 12:52:10 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 12:52:10 Background process 'ServerHeartbeat' started. 
+07.08.2017 12:52:10 Background process 'ServerWatchdog' started. 
+07.08.2017 12:52:10 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 12:52:10 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 12:52:10 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 12:52:10 Aggregating records in 'Counter' table... 
+07.08.2017 12:52:10 Background process 'Worker #a06d02c2' started. 
+07.08.2017 12:52:10 Background process 'Worker #dc7dab38' started. 
+07.08.2017 12:52:10 Records from the 'Counter' table aggregated. 
+07.08.2017 12:52:10 Background process 'Worker #fc8187ff' started. 
+07.08.2017 12:52:10 Background process 'Worker #d761716f' started. 
+07.08.2017 12:52:10 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 12:52:10 Removing outdated records from the 'Job' table... 
+07.08.2017 12:52:10 Background process 'Worker #3425e3c0' started. 
+07.08.2017 12:52:10 Outdated records removed from the 'Job' table. 
+07.08.2017 12:52:10 Removing outdated records from the 'List' table... 
+07.08.2017 12:52:10 Background process 'Worker #fa846435' started. 
+07.08.2017 12:52:10 Outdated records removed from the 'List' table. 
+07.08.2017 12:52:10 Removing outdated records from the 'Set' table... 
+07.08.2017 12:52:10 Background process 'Worker #772e355d' started. 
+07.08.2017 12:52:10 Outdated records removed from the 'Set' table. 
+07.08.2017 12:52:10 Removing outdated records from the 'Hash' table... 
+07.08.2017 12:52:10 Background process 'Worker #fdacf5f4' started. 
+07.08.2017 12:52:10 Background process 'Worker #b96cd5e2' started. 
+07.08.2017 12:52:10 Outdated records removed from the 'Hash' table. 
+07.08.2017 12:52:10 Background process 'Worker #9f2a84ff' started. 
+07.08.2017 12:52:10 Background process 'Worker #cac9af5e' started. 
+07.08.2017 12:52:11 Background process 'Worker #e8526336' started. 
+07.08.2017 12:52:11 Background process 'Worker #af23ab5c' started. 
+07.08.2017 12:52:11 Background process 'Worker #d66c8734' started. 
+07.08.2017 12:52:11 Background process 'Worker #c8aa382c' started. 
+07.08.2017 12:52:11 Background process 'Worker #e283bc5d' started. 
+07.08.2017 12:52:11 Background process 'Worker #2701f0e1' started. 
+07.08.2017 12:52:11 Background process 'Worker #2b0baacf' started. 
+07.08.2017 12:52:11 Background process 'Worker #df08bf52' started. 
+07.08.2017 12:52:11 Background process 'Worker #09e97cc5' started. 
+07.08.2017 12:52:11 Background process 'DelayedJobScheduler' started. 
+07.08.2017 12:52:11 Background process 'RecurringJobScheduler' started. 
+07.08.2017 12:52:30 Method Create is executing 
+07.08.2017 12:52:33 Method Create is executed 
+07.08.2017 12:52:37 Method Delete is executing 
+07.08.2017 12:52:37 Method Delete is executed 
+07.08.2017 13:00:24 Start installing Hangfire SQL objects... 
+07.08.2017 13:00:24 Hangfire SQL objects installed. 
+07.08.2017 13:00:24 Starting Hangfire Server 
+07.08.2017 13:00:24 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 13:00:24 Using the following options for SQL Server job storage: 
+07.08.2017 13:00:24     Queue poll interval: 00:00:01. 
+07.08.2017 13:00:24 Using the following options for Hangfire Server: 
+07.08.2017 13:00:24     Worker count: 20 
+07.08.2017 13:00:24     Listening queues: 'default' 
+07.08.2017 13:00:24     Shutdown timeout: 00:00:15 
+07.08.2017 13:00:24     Schedule polling interval: 00:00:15 
+07.08.2017 13:00:24 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 13:00:24 Background process 'ServerHeartbeat' started. 
+07.08.2017 13:00:24 Background process 'ServerWatchdog' started. 
+07.08.2017 13:00:24 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 13:00:24 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 13:00:24 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 13:00:24 Aggregating records in 'Counter' table... 
+07.08.2017 13:00:24 Background process 'Worker #5eddd5b3' started. 
+07.08.2017 13:00:24 Background process 'Worker #3740044c' started. 
+07.08.2017 13:00:24 Records from the 'Counter' table aggregated. 
+07.08.2017 13:00:24 Background process 'Worker #99faaad8' started. 
+07.08.2017 13:00:24 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 13:00:24 Removing outdated records from the 'Job' table... 
+07.08.2017 13:00:24 Background process 'Worker #2a26293b' started. 
+07.08.2017 13:00:24 Outdated records removed from the 'Job' table. 
+07.08.2017 13:00:24 Removing outdated records from the 'List' table... 
+07.08.2017 13:00:24 Background process 'Worker #58bbc472' started. 
+07.08.2017 13:00:24 Outdated records removed from the 'List' table. 
+07.08.2017 13:00:24 Removing outdated records from the 'Set' table... 
+07.08.2017 13:00:24 Background process 'Worker #24499a24' started. 
+07.08.2017 13:00:24 Background process 'Worker #eb31c93e' started. 
+07.08.2017 13:00:24 Outdated records removed from the 'Set' table. 
+07.08.2017 13:00:24 Removing outdated records from the 'Hash' table... 
+07.08.2017 13:00:24 Outdated records removed from the 'Hash' table. 
+07.08.2017 13:00:24 Background process 'Worker #f3f08af5' started. 
+07.08.2017 13:00:24 Background process 'Worker #cd32afbb' started. 
+07.08.2017 13:00:24 Background process 'Worker #0f79c593' started. 
+07.08.2017 13:00:24 Background process 'Worker #45adf9f0' started. 
+07.08.2017 13:00:25 Background process 'Worker #ea707496' started. 
+07.08.2017 13:00:25 Background process 'Worker #c699c178' started. 
+07.08.2017 13:00:25 Background process 'Worker #73c61800' started. 
+07.08.2017 13:00:25 Background process 'Worker #a39bf1f2' started. 
+07.08.2017 13:00:25 Background process 'Worker #4618bb0b' started. 
+07.08.2017 13:00:25 Background process 'Worker #408bc564' started. 
+07.08.2017 13:00:25 Background process 'Worker #4457f3a7' started. 
+07.08.2017 13:00:25 Background process 'Worker #a0261be1' started. 
+07.08.2017 13:00:25 Background process 'Worker #fdb5d902' started. 
+07.08.2017 13:00:25 Background process 'DelayedJobScheduler' started. 
+07.08.2017 13:00:25 Background process 'RecurringJobScheduler' started. 
+07.08.2017 13:00:59 Method Create is executing 
+07.08.2017 13:01:00 Method Create is executed 
+07.08.2017 13:02:29 Start installing Hangfire SQL objects... 
+07.08.2017 13:02:29 Hangfire SQL objects installed. 
+07.08.2017 13:02:29 Starting Hangfire Server 
+07.08.2017 13:02:29 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 13:02:29 Using the following options for SQL Server job storage: 
+07.08.2017 13:02:29     Queue poll interval: 01:00:00. 
+07.08.2017 13:02:29 Using the following options for Hangfire Server: 
+07.08.2017 13:02:29     Worker count: 20 
+07.08.2017 13:02:29     Listening queues: 'default' 
+07.08.2017 13:02:29     Shutdown timeout: 00:00:15 
+07.08.2017 13:02:29     Schedule polling interval: 00:00:15 
+07.08.2017 13:02:29 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 13:02:29 Background process 'ServerHeartbeat' started. 
+07.08.2017 13:02:29 Background process 'ServerWatchdog' started. 
+07.08.2017 13:02:29 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 13:02:29 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 13:02:29 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 13:02:29 Aggregating records in 'Counter' table... 
+07.08.2017 13:02:29 Background process 'Worker #7ab012ec' started. 
+07.08.2017 13:02:29 Records from the 'Counter' table aggregated. 
+07.08.2017 13:02:29 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 13:02:29 Removing outdated records from the 'Job' table... 
+07.08.2017 13:02:29 Background process 'Worker #e847366e' started. 
+07.08.2017 13:02:30 Background process 'Worker #35af022a' started. 
+07.08.2017 13:02:30 Outdated records removed from the 'Job' table. 
+07.08.2017 13:02:30 Removing outdated records from the 'List' table... 
+07.08.2017 13:02:30 Background process 'Worker #b3b8ae86' started. 
+07.08.2017 13:02:30 Outdated records removed from the 'List' table. 
+07.08.2017 13:02:30 Removing outdated records from the 'Set' table... 
+07.08.2017 13:02:30 Background process 'Worker #e7903912' started. 
+07.08.2017 13:02:30 Outdated records removed from the 'Set' table. 
+07.08.2017 13:02:30 Removing outdated records from the 'Hash' table... 
+07.08.2017 13:02:30 Background process 'Worker #13ad90f4' started. 
+07.08.2017 13:02:30 Background process 'Worker #c28cb047' started. 
+07.08.2017 13:02:30 Outdated records removed from the 'Hash' table. 
+07.08.2017 13:02:30 Background process 'Worker #c1b1d015' started. 
+07.08.2017 13:02:30 Background process 'Worker #5f7c9d78' started. 
+07.08.2017 13:02:30 Background process 'Worker #2fca09e6' started. 
+07.08.2017 13:02:30 Background process 'Worker #421724a7' started. 
+07.08.2017 13:02:30 Background process 'Worker #df5499fe' started. 
+07.08.2017 13:02:30 Background process 'Worker #3da0fbaa' started. 
+07.08.2017 13:02:30 Background process 'Worker #0e0f461c' started. 
+07.08.2017 13:02:30 Background process 'Worker #981166fa' started. 
+07.08.2017 13:02:30 Background process 'Worker #f2e15fb1' started. 
+07.08.2017 13:02:30 Background process 'Worker #40b42626' started. 
+07.08.2017 13:02:30 Background process 'Worker #4a6db673' started. 
+07.08.2017 13:02:30 Background process 'Worker #76b65606' started. 
+07.08.2017 13:02:30 Background process 'DelayedJobScheduler' started. 
+07.08.2017 13:02:30 Background process 'Worker #c79f896c' started. 
+07.08.2017 13:02:30 Background process 'RecurringJobScheduler' started. 
+07.08.2017 13:03:00 Method Create is executing 
+07.08.2017 13:03:03 Method Create is executed 
+07.08.2017 13:08:37 Start installing Hangfire SQL objects... 
+07.08.2017 13:08:38 Hangfire SQL objects installed. 
+07.08.2017 13:08:38 Starting Hangfire Server 
+07.08.2017 13:08:38 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 13:08:38 Using the following options for SQL Server job storage: 
+07.08.2017 13:08:38     Queue poll interval: 00:01:00. 
+07.08.2017 13:08:38 Using the following options for Hangfire Server: 
+07.08.2017 13:08:38     Worker count: 20 
+07.08.2017 13:08:38     Listening queues: 'default' 
+07.08.2017 13:08:38     Shutdown timeout: 00:00:15 
+07.08.2017 13:08:38     Schedule polling interval: 00:00:15 
+07.08.2017 13:08:38 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 13:08:38 Background process 'ServerHeartbeat' started. 
+07.08.2017 13:08:38 Background process 'ServerWatchdog' started. 
+07.08.2017 13:08:38 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 13:08:38 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 13:08:38 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 13:08:38 1 servers were removed due to timeout 
+07.08.2017 13:08:38 Aggregating records in 'Counter' table... 
+07.08.2017 13:08:38 Background process 'Worker #ea34d578' started. 
+07.08.2017 13:08:38 Background process 'Worker #5731990d' started. 
+07.08.2017 13:08:38 Background process 'Worker #d534ac3e' started. 
+07.08.2017 13:08:38 Background process 'Worker #1b04e38e' started. 
+07.08.2017 13:08:38 Records from the 'Counter' table aggregated. 
+07.08.2017 13:08:38 Background process 'Worker #e449bec6' started. 
+07.08.2017 13:08:38 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 13:08:38 Removing outdated records from the 'Job' table... 
+07.08.2017 13:08:38 Background process 'Worker #ad4e7a98' started. 
+07.08.2017 13:08:38 Background process 'Worker #9b64e5f3' started. 
+07.08.2017 13:08:38 Background process 'Worker #94a151bb' started. 
+07.08.2017 13:08:38 Background process 'Worker #a4f85e27' started. 
+07.08.2017 13:08:38 Background process 'Worker #c043bf9e' started. 
+07.08.2017 13:08:39 Outdated records removed from the 'Job' table. 
+07.08.2017 13:08:39 Removing outdated records from the 'List' table... 
+07.08.2017 13:08:39 Background process 'Worker #d864e716' started. 
+07.08.2017 13:08:39 Background process 'Worker #8b75e5e8' started. 
+07.08.2017 13:08:39 Outdated records removed from the 'List' table. 
+07.08.2017 13:08:39 Removing outdated records from the 'Set' table... 
+07.08.2017 13:08:39 Background process 'Worker #e390de12' started. 
+07.08.2017 13:08:39 Background process 'Worker #ee10e224' started. 
+07.08.2017 13:08:39 Background process 'Worker #5597a270' started. 
+07.08.2017 13:08:39 Background process 'Worker #8fead119' started. 
+07.08.2017 13:08:39 Outdated records removed from the 'Set' table. 
+07.08.2017 13:08:39 Removing outdated records from the 'Hash' table... 
+07.08.2017 13:08:39 Background process 'Worker #931dc081' started. 
+07.08.2017 13:08:39 Outdated records removed from the 'Hash' table. 
+07.08.2017 13:08:39 Background process 'Worker #2fdcfefa' started. 
+07.08.2017 13:08:39 Background process 'Worker #978f393a' started. 
+07.08.2017 13:08:39 Background process 'Worker #56b099d4' started. 
+07.08.2017 13:08:39 Background process 'DelayedJobScheduler' started. 
+07.08.2017 13:08:39 Background process 'RecurringJobScheduler' started. 
+07.08.2017 13:09:10 Method Create is executing 
+07.08.2017 13:09:12 Method Create is executed 
+07.08.2017 13:52:31 Start installing Hangfire SQL objects... 
+07.08.2017 13:52:31 Hangfire SQL objects installed. 
+07.08.2017 13:52:31 Starting Hangfire Server 
+07.08.2017 13:52:31 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 13:52:31 Using the following options for SQL Server job storage: 
+07.08.2017 13:52:31     Queue poll interval: 00:01:00. 
+07.08.2017 13:52:31 Using the following options for Hangfire Server: 
+07.08.2017 13:52:31     Worker count: 20 
+07.08.2017 13:52:31     Listening queues: 'default' 
+07.08.2017 13:52:31     Shutdown timeout: 00:00:15 
+07.08.2017 13:52:31     Schedule polling interval: 00:00:15 
+07.08.2017 13:52:31 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 13:52:32 Background process 'ServerHeartbeat' started. 
+07.08.2017 13:52:32 Background process 'ServerWatchdog' started. 
+07.08.2017 13:52:32 1 servers were removed due to timeout 
+07.08.2017 13:52:32 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 13:52:32 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 13:52:32 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 13:52:32 Aggregating records in 'Counter' table... 
+07.08.2017 13:52:32 Background process 'Worker #17aed984' started. 
+07.08.2017 13:52:32 Background process 'Worker #323317e0' started. 
+07.08.2017 13:52:32 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 13:52:32 Removing outdated records from the 'Job' table... 
+07.08.2017 13:52:32 Records from the 'Counter' table aggregated. 
+07.08.2017 13:52:32 Background process 'Worker #0e28a364' started. 
+07.08.2017 13:52:32 Background process 'Worker #c86181f6' started. 
+07.08.2017 13:52:32 Outdated records removed from the 'Job' table. 
+07.08.2017 13:52:32 Removing outdated records from the 'List' table... 
+07.08.2017 13:52:32 Background process 'Worker #8036af3a' started. 
+07.08.2017 13:52:32 Background process 'Worker #5011467c' started. 
+07.08.2017 13:52:32 Outdated records removed from the 'List' table. 
+07.08.2017 13:52:32 Removing outdated records from the 'Set' table... 
+07.08.2017 13:52:32 Background process 'Worker #1130ffd3' started. 
+07.08.2017 13:52:32 Background process 'Worker #698e3604' started. 
+07.08.2017 13:52:32 Outdated records removed from the 'Set' table. 
+07.08.2017 13:52:32 Removing outdated records from the 'Hash' table... 
+07.08.2017 13:52:32 Background process 'Worker #37e80fb1' started. 
+07.08.2017 13:52:32 Background process 'Worker #c5a75abd' started. 
+07.08.2017 13:52:32 Background process 'Worker #ad1b4ede' started. 
+07.08.2017 13:52:32 Background process 'Worker #ba796f9d' started. 
+07.08.2017 13:52:32 Background process 'Worker #de621917' started. 
+07.08.2017 13:52:32 Outdated records removed from the 'Hash' table. 
+07.08.2017 13:52:32 Background process 'Worker #5b91013d' started. 
+07.08.2017 13:52:32 Background process 'Worker #b95029e7' started. 
+07.08.2017 13:52:32 Background process 'Worker #64f3e30a' started. 
+07.08.2017 13:52:32 Background process 'Worker #8c6ff8a6' started. 
+07.08.2017 13:52:32 Background process 'Worker #71cf7595' started. 
+07.08.2017 13:52:32 Background process 'Worker #e82040b5' started. 
+07.08.2017 13:52:32 Background process 'Worker #b9058268' started. 
+07.08.2017 13:52:32 Background process 'DelayedJobScheduler' started. 
+07.08.2017 13:52:32 Background process 'RecurringJobScheduler' started. 
+07.08.2017 13:53:01 Method Create is executing 
+07.08.2017 13:53:01 Method Create is executed 
+07.08.2017 16:15:33 Start installing Hangfire SQL objects... 
+07.08.2017 16:15:43 Hangfire SQL objects installed. 
+07.08.2017 16:15:43 Starting Hangfire Server 
+07.08.2017 16:15:43 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 16:15:43 Using the following options for SQL Server job storage: 
+07.08.2017 16:15:43     Queue poll interval: 00:00:01. 
+07.08.2017 16:15:43 Using the following options for Hangfire Server: 
+07.08.2017 16:15:43     Worker count: 20 
+07.08.2017 16:15:43     Listening queues: 'default' 
+07.08.2017 16:15:43     Shutdown timeout: 00:00:15 
+07.08.2017 16:15:43     Schedule polling interval: 00:00:15 
+07.08.2017 16:15:43 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 16:15:44 Background process 'ServerHeartbeat' started. 
+07.08.2017 16:15:44 Background process 'ServerWatchdog' started. 
+07.08.2017 16:15:44 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 16:15:44 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 16:15:44 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 16:15:44 Background process 'Worker #621eee13' started. 
+07.08.2017 16:15:44 Aggregating records in 'Counter' table... 
+07.08.2017 16:15:44 Background process 'Worker #dd8a769d' started. 
+07.08.2017 16:15:44 Background process 'Worker #33a3e2ec' started. 
+07.08.2017 16:15:44 Background process 'Worker #3b2b07ee' started. 
+07.08.2017 16:15:44 Background process 'Worker #d000d20c' started. 
+07.08.2017 16:15:44 Background process 'Worker #96eb0e58' started. 
+07.08.2017 16:15:44 Background process 'Worker #15e826af' started. 
+07.08.2017 16:15:44 Background process 'Worker #81e75201' started. 
+07.08.2017 16:15:44 Background process 'Worker #9cb30352' started. 
+07.08.2017 16:15:44 Background process 'Worker #750779bb' started. 
+07.08.2017 16:15:44 Background process 'Worker #17cd0a1d' started. 
+07.08.2017 16:15:44 Background process 'Worker #56f886b7' started. 
+07.08.2017 16:15:44 Background process 'Worker #4427c07f' started. 
+07.08.2017 16:15:44 Background process 'Worker #f1f130ea' started. 
+07.08.2017 16:15:44 Background process 'Worker #db352aca' started. 
+07.08.2017 16:15:44 Background process 'Worker #0e2d5df5' started. 
+07.08.2017 16:15:44 Background process 'Worker #fe9783f8' started. 
+07.08.2017 16:15:44 Background process 'Worker #50b3c38e' started. 
+07.08.2017 16:15:44 Background process 'Worker #092af784' started. 
+07.08.2017 16:15:44 Background process 'Worker #bf8f36cb' started. 
+07.08.2017 16:15:44 Background process 'DelayedJobScheduler' started. 
+07.08.2017 16:15:44 Background process 'RecurringJobScheduler' started. 
+07.08.2017 16:15:46 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 16:15:46 Removing outdated records from the 'Job' table... 
+07.08.2017 16:15:47 Outdated records removed from the 'Job' table. 
+07.08.2017 16:15:47 Removing outdated records from the 'List' table... 
+07.08.2017 16:15:47 Outdated records removed from the 'List' table. 
+07.08.2017 16:15:47 Removing outdated records from the 'Set' table... 
+07.08.2017 16:15:47 Outdated records removed from the 'Set' table. 
+07.08.2017 16:15:47 Removing outdated records from the 'Hash' table... 
+07.08.2017 16:15:47 Outdated records removed from the 'Hash' table. 
+07.08.2017 16:15:47 Records from the 'Counter' table aggregated. 
+07.08.2017 16:23:19 Start installing Hangfire SQL objects... 
+07.08.2017 16:23:21 Hangfire SQL objects installed. 
+07.08.2017 16:23:21 Starting Hangfire Server 
+07.08.2017 16:23:21 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 16:23:21 Using the following options for SQL Server job storage: 
+07.08.2017 16:23:21     Queue poll interval: 00:00:01. 
+07.08.2017 16:23:21 Using the following options for Hangfire Server: 
+07.08.2017 16:23:21     Worker count: 20 
+07.08.2017 16:23:21     Listening queues: 'default' 
+07.08.2017 16:23:21     Shutdown timeout: 00:00:15 
+07.08.2017 16:23:21     Schedule polling interval: 00:00:15 
+07.08.2017 16:23:21 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 16:23:21 Background process 'ServerHeartbeat' started. 
+07.08.2017 16:23:21 Background process 'ServerWatchdog' started. 
+07.08.2017 16:23:21 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 16:23:21 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 16:23:21 1 servers were removed due to timeout 
+07.08.2017 16:23:21 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 16:23:21 Aggregating records in 'Counter' table... 
+07.08.2017 16:23:21 Background process 'Worker #9014f1fe' started. 
+07.08.2017 16:23:21 Background process 'Worker #d6b94aa6' started. 
+07.08.2017 16:23:21 Background process 'Worker #f53c0709' started. 
+07.08.2017 16:23:21 Background process 'Worker #f3f12f73' started. 
+07.08.2017 16:23:21 Background process 'Worker #a58e2648' started. 
+07.08.2017 16:23:21 Background process 'Worker #2e507b47' started. 
+07.08.2017 16:23:21 Background process 'Worker #8772cce1' started. 
+07.08.2017 16:23:21 Background process 'Worker #a6c30176' started. 
+07.08.2017 16:23:22 Background process 'Worker #995ad577' started. 
+07.08.2017 16:23:22 Background process 'Worker #8c8bef30' started. 
+07.08.2017 16:23:22 Background process 'Worker #d3478503' started. 
+07.08.2017 16:23:22 Background process 'Worker #e55cc826' started. 
+07.08.2017 16:23:22 Background process 'Worker #7f3afe31' started. 
+07.08.2017 16:23:22 Background process 'Worker #0e375eb7' started. 
+07.08.2017 16:23:22 Background process 'Worker #b2ff7ae2' started. 
+07.08.2017 16:23:22 Background process 'Worker #eae5529a' started. 
+07.08.2017 16:23:22 Background process 'Worker #21698032' started. 
+07.08.2017 16:23:22 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 16:23:22 Removing outdated records from the 'Job' table... 
+07.08.2017 16:23:22 Background process 'Worker #76cce136' started. 
+07.08.2017 16:23:22 Outdated records removed from the 'Job' table. 
+07.08.2017 16:23:22 Removing outdated records from the 'List' table... 
+07.08.2017 16:23:22 Background process 'Worker #19862486' started. 
+07.08.2017 16:23:22 Background process 'Worker #84017490' started. 
+07.08.2017 16:23:22 Background process 'DelayedJobScheduler' started. 
+07.08.2017 16:23:22 Outdated records removed from the 'List' table. 
+07.08.2017 16:23:22 Removing outdated records from the 'Set' table... 
+07.08.2017 16:23:22 Background process 'RecurringJobScheduler' started. 
+07.08.2017 16:23:22 Records from the 'Counter' table aggregated. 
+07.08.2017 16:23:22 Outdated records removed from the 'Set' table. 
+07.08.2017 16:23:22 Removing outdated records from the 'Hash' table... 
+07.08.2017 16:23:22 Outdated records removed from the 'Hash' table. 
+07.08.2017 16:24:52 Start installing Hangfire SQL objects... 
+07.08.2017 16:24:53 Hangfire SQL objects installed. 
+07.08.2017 16:24:53 Starting Hangfire Server 
+07.08.2017 16:24:53 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 16:24:53 Using the following options for SQL Server job storage: 
+07.08.2017 16:24:53     Queue poll interval: 00:00:01. 
+07.08.2017 16:24:53 Using the following options for Hangfire Server: 
+07.08.2017 16:24:53     Worker count: 20 
+07.08.2017 16:24:53     Listening queues: 'default' 
+07.08.2017 16:24:53     Shutdown timeout: 00:00:15 
+07.08.2017 16:24:53     Schedule polling interval: 00:00:15 
+07.08.2017 16:24:53 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 16:24:53 Background process 'ServerHeartbeat' started. 
+07.08.2017 16:24:53 Background process 'ServerWatchdog' started. 
+07.08.2017 16:24:53 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 16:24:53 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 16:24:53 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 16:24:53 Aggregating records in 'Counter' table... 
+07.08.2017 16:24:53 Background process 'Worker #9ce30089' started. 
+07.08.2017 16:24:53 Background process 'Worker #3da35e71' started. 
+07.08.2017 16:24:53 Background process 'Worker #c9159c25' started. 
+07.08.2017 16:24:53 Background process 'Worker #bd90d062' started. 
+07.08.2017 16:24:54 Background process 'Worker #805e40cc' started. 
+07.08.2017 16:24:54 Background process 'Worker #cdcee009' started. 
+07.08.2017 16:24:54 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 16:24:54 Removing outdated records from the 'Job' table... 
+07.08.2017 16:24:54 Background process 'Worker #298851c3' started. 
+07.08.2017 16:24:54 Background process 'Worker #7fa1ae24' started. 
+07.08.2017 16:24:54 Background process 'Worker #11513755' started. 
+07.08.2017 16:24:54 Background process 'Worker #976d228c' started. 
+07.08.2017 16:24:54 Background process 'Worker #9385bc2b' started. 
+07.08.2017 16:24:54 Outdated records removed from the 'Job' table. 
+07.08.2017 16:24:54 Removing outdated records from the 'List' table... 
+07.08.2017 16:24:54 Records from the 'Counter' table aggregated. 
+07.08.2017 16:24:54 Background process 'Worker #c677ef4e' started. 
+07.08.2017 16:24:54 Background process 'Worker #d24ac02a' started. 
+07.08.2017 16:24:54 Outdated records removed from the 'List' table. 
+07.08.2017 16:24:54 Removing outdated records from the 'Set' table... 
+07.08.2017 16:24:54 Background process 'Worker #f1c9affb' started. 
+07.08.2017 16:24:54 Background process 'Worker #adc27fc7' started. 
+07.08.2017 16:24:54 Outdated records removed from the 'Set' table. 
+07.08.2017 16:24:54 Removing outdated records from the 'Hash' table... 
+07.08.2017 16:24:54 Background process 'Worker #5f3988b1' started. 
+07.08.2017 16:24:54 Background process 'Worker #3ef3b238' started. 
+07.08.2017 16:24:54 Background process 'Worker #9c2635af' started. 
+07.08.2017 16:24:54 Outdated records removed from the 'Hash' table. 
+07.08.2017 16:24:54 Background process 'Worker #90016454' started. 
+07.08.2017 16:24:54 Background process 'Worker #c8b2e506' started. 
+07.08.2017 16:24:54 Background process 'DelayedJobScheduler' started. 
+07.08.2017 16:24:54 Background process 'RecurringJobScheduler' started. 
+07.08.2017 16:26:40 Start installing Hangfire SQL objects... 
+07.08.2017 16:26:41 Hangfire SQL objects installed. 
+07.08.2017 16:26:41 Starting Hangfire Server 
+07.08.2017 16:26:41 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 16:26:41 Using the following options for SQL Server job storage: 
+07.08.2017 16:26:41     Queue poll interval: 00:00:01. 
+07.08.2017 16:26:41 Using the following options for Hangfire Server: 
+07.08.2017 16:26:41     Worker count: 20 
+07.08.2017 16:26:41     Listening queues: 'default' 
+07.08.2017 16:26:41     Shutdown timeout: 00:00:15 
+07.08.2017 16:26:41     Schedule polling interval: 00:00:15 
+07.08.2017 16:26:41 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 16:26:41 Background process 'ServerHeartbeat' started. 
+07.08.2017 16:26:41 Background process 'ServerWatchdog' started. 
+07.08.2017 16:26:41 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 16:26:41 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 16:26:41 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 16:26:41 Aggregating records in 'Counter' table... 
+07.08.2017 16:26:41 Background process 'Worker #ab3d9fac' started. 
+07.08.2017 16:26:41 Background process 'Worker #d24f22fa' started. 
+07.08.2017 16:26:41 Background process 'Worker #cbb6c50e' started. 
+07.08.2017 16:26:41 Background process 'Worker #336d5dc3' started. 
+07.08.2017 16:26:41 Background process 'Worker #501b4101' started. 
+07.08.2017 16:26:41 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 16:26:41 Removing outdated records from the 'Job' table... 
+07.08.2017 16:26:42 Background process 'Worker #47be84e3' started. 
+07.08.2017 16:26:42 Background process 'Worker #d874a164' started. 
+07.08.2017 16:26:42 Records from the 'Counter' table aggregated. 
+07.08.2017 16:26:42 Outdated records removed from the 'Job' table. 
+07.08.2017 16:26:42 Removing outdated records from the 'List' table... 
+07.08.2017 16:26:42 Background process 'Worker #d170c34e' started. 
+07.08.2017 16:26:42 Background process 'Worker #b37941d4' started. 
+07.08.2017 16:26:42 Background process 'Worker #7d91997c' started. 
+07.08.2017 16:26:42 Background process 'Worker #80179b6c' started. 
+07.08.2017 16:26:42 Outdated records removed from the 'List' table. 
+07.08.2017 16:26:42 Removing outdated records from the 'Set' table... 
+07.08.2017 16:26:42 Background process 'Worker #44137c67' started. 
+07.08.2017 16:26:42 Outdated records removed from the 'Set' table. 
+07.08.2017 16:26:42 Removing outdated records from the 'Hash' table... 
+07.08.2017 16:26:42 Background process 'Worker #d7629aa3' started. 
+07.08.2017 16:26:42 Background process 'Worker #8134f21a' started. 
+07.08.2017 16:26:42 Background process 'Worker #98abbc59' started. 
+07.08.2017 16:26:42 Background process 'Worker #37f059fc' started. 
+07.08.2017 16:26:42 Outdated records removed from the 'Hash' table. 
+07.08.2017 16:26:42 Background process 'Worker #035f4352' started. 
+07.08.2017 16:26:42 Background process 'Worker #f8174661' started. 
+07.08.2017 16:26:42 Background process 'Worker #44b92d5b' started. 
+07.08.2017 16:26:42 Background process 'Worker #07f1508a' started. 
+07.08.2017 16:26:42 Background process 'DelayedJobScheduler' started. 
+07.08.2017 16:26:42 Background process 'RecurringJobScheduler' started. 
+07.08.2017 16:28:54 Start installing Hangfire SQL objects... 
+07.08.2017 16:28:54 Hangfire SQL objects installed. 
+07.08.2017 16:28:54 Starting Hangfire Server 
+07.08.2017 16:28:54 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 16:28:54 Using the following options for SQL Server job storage: 
+07.08.2017 16:28:54     Queue poll interval: 00:00:01. 
+07.08.2017 16:28:54 Using the following options for Hangfire Server: 
+07.08.2017 16:28:54     Worker count: 20 
+07.08.2017 16:28:54     Listening queues: 'default' 
+07.08.2017 16:28:54     Shutdown timeout: 00:00:15 
+07.08.2017 16:28:54     Schedule polling interval: 00:00:15 
+07.08.2017 16:28:54 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 16:28:55 Background process 'ServerHeartbeat' started. 
+07.08.2017 16:28:55 Background process 'ServerWatchdog' started. 
+07.08.2017 16:28:55 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 16:28:55 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 16:28:55 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 16:28:55 Background process 'Worker #74f0469a' started. 
+07.08.2017 16:28:55 Aggregating records in 'Counter' table... 
+07.08.2017 16:28:55 1 servers were removed due to timeout 
+07.08.2017 16:28:55 Background process 'Worker #8f679298' started. 
+07.08.2017 16:28:55 Background process 'Worker #aa05f505' started. 
+07.08.2017 16:28:55 Background process 'Worker #6280b4e2' started. 
+07.08.2017 16:28:55 Background process 'Worker #dc63825a' started. 
+07.08.2017 16:28:55 Background process 'Worker #ab712a59' started. 
+07.08.2017 16:28:55 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 16:28:55 Removing outdated records from the 'Job' table... 
+07.08.2017 16:28:55 Records from the 'Counter' table aggregated. 
+07.08.2017 16:28:55 Background process 'Worker #44575fba' started. 
+07.08.2017 16:28:55 Background process 'Worker #46bbec65' started. 
+07.08.2017 16:28:55 Outdated records removed from the 'Job' table. 
+07.08.2017 16:28:55 Removing outdated records from the 'List' table... 
+07.08.2017 16:28:55 Background process 'Worker #3f77279e' started. 
+07.08.2017 16:28:55 Background process 'Worker #2757c8d6' started. 
+07.08.2017 16:28:55 Outdated records removed from the 'List' table. 
+07.08.2017 16:28:55 Removing outdated records from the 'Set' table... 
+07.08.2017 16:28:55 Background process 'Worker #20d16699' started. 
+07.08.2017 16:28:55 Outdated records removed from the 'Set' table. 
+07.08.2017 16:28:55 Removing outdated records from the 'Hash' table... 
+07.08.2017 16:28:55 Background process 'Worker #6f823fdf' started. 
+07.08.2017 16:28:55 Background process 'Worker #23910325' started. 
+07.08.2017 16:28:55 Outdated records removed from the 'Hash' table. 
+07.08.2017 16:28:55 Background process 'Worker #2f076462' started. 
+07.08.2017 16:28:55 Background process 'Worker #76d2d511' started. 
+07.08.2017 16:28:55 Background process 'Worker #29955fe4' started. 
+07.08.2017 16:28:55 Background process 'Worker #38699d04' started. 
+07.08.2017 16:28:55 Background process 'Worker #619413f8' started. 
+07.08.2017 16:28:55 Background process 'Worker #c7047b6d' started. 
+07.08.2017 16:28:55 Background process 'Worker #f6e6ce3a' started. 
+07.08.2017 16:28:55 Background process 'DelayedJobScheduler' started. 
+07.08.2017 16:28:55 Background process 'RecurringJobScheduler' started. 
+07.08.2017 16:50:34 Start installing Hangfire SQL objects... 
+07.08.2017 16:50:34 Hangfire SQL objects installed. 
+07.08.2017 16:50:34 Starting Hangfire Server 
+07.08.2017 16:50:34 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 16:50:34 Using the following options for SQL Server job storage: 
+07.08.2017 16:50:34     Queue poll interval: 00:00:01. 
+07.08.2017 16:50:34 Using the following options for Hangfire Server: 
+07.08.2017 16:50:34     Worker count: 20 
+07.08.2017 16:50:34     Listening queues: 'default' 
+07.08.2017 16:50:34     Shutdown timeout: 00:00:15 
+07.08.2017 16:50:34     Schedule polling interval: 00:00:15 
+07.08.2017 16:50:35 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 16:50:35 Background process 'ServerHeartbeat' started. 
+07.08.2017 16:50:35 Background process 'ServerWatchdog' started. 
+07.08.2017 16:50:35 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 16:50:35 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 16:50:35 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 16:50:35 Aggregating records in 'Counter' table... 
+07.08.2017 16:50:35 Background process 'Worker #0a433e90' started. 
+07.08.2017 16:50:35 3 servers were removed due to timeout 
+07.08.2017 16:50:35 Background process 'Worker #a746f6a6' started. 
+07.08.2017 16:50:35 Background process 'Worker #be9d7e5d' started. 
+07.08.2017 16:50:35 Background process 'Worker #3ab646e0' started. 
+07.08.2017 16:50:35 Background process 'Worker #def73edd' started. 
+07.08.2017 16:50:35 Background process 'Worker #f75f6f8c' started. 
+07.08.2017 16:50:35 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 16:50:35 Removing outdated records from the 'Job' table... 
+07.08.2017 16:50:35 Background process 'Worker #4c11064b' started. 
+07.08.2017 16:50:35 Records from the 'Counter' table aggregated. 
+07.08.2017 16:50:35 Background process 'Worker #c786251d' started. 
+07.08.2017 16:50:35 Outdated records removed from the 'Job' table. 
+07.08.2017 16:50:35 Removing outdated records from the 'List' table... 
+07.08.2017 16:50:35 Background process 'Worker #ad1472d8' started. 
+07.08.2017 16:50:35 Background process 'Worker #74c14735' started. 
+07.08.2017 16:50:35 Background process 'Worker #ec49a7fc' started. 
+07.08.2017 16:50:35 Background process 'Worker #eb6beb8e' started. 
+07.08.2017 16:50:35 Outdated records removed from the 'List' table. 
+07.08.2017 16:50:35 Removing outdated records from the 'Set' table... 
+07.08.2017 16:50:35 Background process 'Worker #d19fb35d' started. 
+07.08.2017 16:50:35 Background process 'Worker #6760c50e' started. 
+07.08.2017 16:50:35 Outdated records removed from the 'Set' table. 
+07.08.2017 16:50:35 Removing outdated records from the 'Hash' table... 
+07.08.2017 16:50:35 Background process 'Worker #acab67a5' started. 
+07.08.2017 16:50:35 Background process 'Worker #ed4bbfae' started. 
+07.08.2017 16:50:35 Background process 'Worker #56e455c9' started. 
+07.08.2017 16:50:35 Outdated records removed from the 'Hash' table. 
+07.08.2017 16:50:35 Background process 'Worker #2b4a0ca7' started. 
+07.08.2017 16:50:35 Background process 'Worker #114f33be' started. 
+07.08.2017 16:50:35 Background process 'Worker #ff1a82f8' started. 
+07.08.2017 16:50:35 Background process 'DelayedJobScheduler' started. 
+07.08.2017 16:50:35 Background process 'RecurringJobScheduler' started. 
+07.08.2017 17:00:10 Start installing Hangfire SQL objects... 
+07.08.2017 17:00:11 Hangfire SQL objects installed. 
+07.08.2017 17:00:11 Starting Hangfire Server 
+07.08.2017 17:00:11 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 17:00:11 Using the following options for SQL Server job storage: 
+07.08.2017 17:00:11     Queue poll interval: 00:00:01. 
+07.08.2017 17:00:11 Using the following options for Hangfire Server: 
+07.08.2017 17:00:11     Worker count: 20 
+07.08.2017 17:00:11     Listening queues: 'default' 
+07.08.2017 17:00:11     Shutdown timeout: 00:00:15 
+07.08.2017 17:00:11     Schedule polling interval: 00:00:15 
+07.08.2017 17:00:11 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 17:00:11 Background process 'ServerHeartbeat' started. 
+07.08.2017 17:00:11 Background process 'ServerWatchdog' started. 
+07.08.2017 17:00:11 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 17:00:11 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 17:00:12 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 17:00:12 1 servers were removed due to timeout 
+07.08.2017 17:00:12 Aggregating records in 'Counter' table... 
+07.08.2017 17:00:12 Background process 'Worker #a61fb398' started. 
+07.08.2017 17:00:12 Background process 'Worker #d019c6b3' started. 
+07.08.2017 17:00:12 Background process 'Worker #5b2ad5fb' started. 
+07.08.2017 17:00:12 Background process 'Worker #f1733aec' started. 
+07.08.2017 17:00:12 Background process 'Worker #5c812d49' started. 
+07.08.2017 17:00:12 Background process 'Worker #7452e969' started. 
+07.08.2017 17:00:12 Background process 'Worker #70e0abc9' started. 
+07.08.2017 17:00:12 Background process 'Worker #1976ee2a' started. 
+07.08.2017 17:00:12 Background process 'Worker #0c41ea7a' started. 
+07.08.2017 17:00:12 Background process 'Worker #c7dc9cbe' started. 
+07.08.2017 17:00:12 Background process 'Worker #8feeba84' started. 
+07.08.2017 17:00:12 Background process 'Worker #db67b5b9' started. 
+07.08.2017 17:00:12 Background process 'Worker #ca5b55c7' started. 
+07.08.2017 17:00:12 Background process 'Worker #7c0d3426' started. 
+07.08.2017 17:00:12 Background process 'Worker #6b64127c' started. 
+07.08.2017 17:00:12 Background process 'Worker #0c9ea865' started. 
+07.08.2017 17:00:12 Background process 'Worker #55f28910' started. 
+07.08.2017 17:00:12 Background process 'Worker #9c7dc8aa' started. 
+07.08.2017 17:00:12 Background process 'Worker #3fce027e' started. 
+07.08.2017 17:00:12 Background process 'Worker #d5b84aed' started. 
+07.08.2017 17:00:12 Background process 'DelayedJobScheduler' started. 
+07.08.2017 17:00:12 Background process 'RecurringJobScheduler' started. 
+07.08.2017 17:00:12 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 17:00:12 Removing outdated records from the 'Job' table... 
+07.08.2017 17:00:13 Outdated records removed from the 'Job' table. 
+07.08.2017 17:00:13 Removing outdated records from the 'List' table... 
+07.08.2017 17:00:14 Records from the 'Counter' table aggregated. 
+07.08.2017 17:00:15 Outdated records removed from the 'List' table. 
+07.08.2017 17:00:15 Removing outdated records from the 'Set' table... 
+07.08.2017 17:00:16 Outdated records removed from the 'Set' table. 
+07.08.2017 17:00:16 Removing outdated records from the 'Hash' table... 
+07.08.2017 17:00:17 Outdated records removed from the 'Hash' table. 
+07.08.2017 17:05:14 Aggregating records in 'Counter' table... 
+07.08.2017 17:05:14 Records from the 'Counter' table aggregated. 
+07.08.2017 17:06:16 Start installing Hangfire SQL objects... 
+07.08.2017 17:06:17 Hangfire SQL objects installed. 
+07.08.2017 17:06:17 Starting Hangfire Server 
+07.08.2017 17:06:17 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 17:06:17 Using the following options for SQL Server job storage: 
+07.08.2017 17:06:17     Queue poll interval: 00:00:01. 
+07.08.2017 17:06:17 Using the following options for Hangfire Server: 
+07.08.2017 17:06:17     Worker count: 20 
+07.08.2017 17:06:17     Listening queues: 'default' 
+07.08.2017 17:06:17     Shutdown timeout: 00:00:15 
+07.08.2017 17:06:17     Schedule polling interval: 00:00:15 
+07.08.2017 17:06:17 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 17:06:18 Background process 'ServerHeartbeat' started. 
+07.08.2017 17:06:18 Background process 'ServerWatchdog' started. 
+07.08.2017 17:06:18 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 17:06:18 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 17:06:18 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 17:06:18 Aggregating records in 'Counter' table... 
+07.08.2017 17:06:18 Background process 'Worker #d2f6fb25' started. 
+07.08.2017 17:06:18 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 17:06:18 Removing outdated records from the 'Job' table... 
+07.08.2017 17:06:18 Background process 'Worker #44ae74ea' started. 
+07.08.2017 17:06:18 Background process 'Worker #1e5da518' started. 
+07.08.2017 17:06:18 Outdated records removed from the 'Job' table. 
+07.08.2017 17:06:18 Removing outdated records from the 'List' table... 
+07.08.2017 17:06:18 Background process 'Worker #7ce09d49' started. 
+07.08.2017 17:06:18 Background process 'Worker #5cff6fa8' started. 
+07.08.2017 17:06:18 Background process 'Worker #08062738' started. 
+07.08.2017 17:06:18 Background process 'Worker #595a31fc' started. 
+07.08.2017 17:06:18 Outdated records removed from the 'List' table. 
+07.08.2017 17:06:18 Removing outdated records from the 'Set' table... 
+07.08.2017 17:06:18 Records from the 'Counter' table aggregated. 
+07.08.2017 17:06:18 Background process 'Worker #09ee31df' started. 
+07.08.2017 17:06:18 Outdated records removed from the 'Set' table. 
+07.08.2017 17:06:18 Removing outdated records from the 'Hash' table... 
+07.08.2017 17:06:18 Background process 'Worker #984fe94e' started. 
+07.08.2017 17:06:18 Background process 'Worker #f8667820' started. 
+07.08.2017 17:06:18 Outdated records removed from the 'Hash' table. 
+07.08.2017 17:06:18 Background process 'Worker #d9ac8d1e' started. 
+07.08.2017 17:06:18 Background process 'Worker #5407d9a5' started. 
+07.08.2017 17:06:18 Background process 'Worker #ad345340' started. 
+07.08.2017 17:06:18 Background process 'Worker #a4cae8f6' started. 
+07.08.2017 17:06:18 Background process 'Worker #96ae5b56' started. 
+07.08.2017 17:06:19 Background process 'Worker #b6878a91' started. 
+07.08.2017 17:06:19 Background process 'Worker #8611c800' started. 
+07.08.2017 17:06:19 Background process 'Worker #3a183ba6' started. 
+07.08.2017 17:06:19 Background process 'Worker #115b0c03' started. 
+07.08.2017 17:06:19 Background process 'Worker #f0884e87' started. 
+07.08.2017 17:06:19 Background process 'DelayedJobScheduler' started. 
+07.08.2017 17:06:19 Background process 'RecurringJobScheduler' started. 
+07.08.2017 17:11:16 Start installing Hangfire SQL objects... 
+07.08.2017 17:11:17 Hangfire SQL objects installed. 
+07.08.2017 17:11:17 Starting Hangfire Server 
+07.08.2017 17:11:17 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 17:11:17 Using the following options for SQL Server job storage: 
+07.08.2017 17:11:17     Queue poll interval: 00:00:01. 
+07.08.2017 17:11:17 Using the following options for Hangfire Server: 
+07.08.2017 17:11:17     Worker count: 20 
+07.08.2017 17:11:17     Listening queues: 'default' 
+07.08.2017 17:11:17     Shutdown timeout: 00:00:15 
+07.08.2017 17:11:17     Schedule polling interval: 00:00:15 
+07.08.2017 17:11:17 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 17:11:17 Background process 'ServerHeartbeat' started. 
+07.08.2017 17:11:17 Background process 'ServerWatchdog' started. 
+07.08.2017 17:11:17 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 17:11:17 1 servers were removed due to timeout 
+07.08.2017 17:11:17 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 17:11:17 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 17:11:17 Aggregating records in 'Counter' table... 
+07.08.2017 17:11:17 Background process 'Worker #47d32919' started. 
+07.08.2017 17:11:17 Background process 'Worker #ba99c5b3' started. 
+07.08.2017 17:11:17 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 17:11:17 Removing outdated records from the 'Job' table... 
+07.08.2017 17:11:17 Background process 'Worker #9a471003' started. 
+07.08.2017 17:11:18 Background process 'Worker #8d227711' started. 
+07.08.2017 17:11:18 Outdated records removed from the 'Job' table. 
+07.08.2017 17:11:18 Removing outdated records from the 'List' table... 
+07.08.2017 17:11:18 Background process 'Worker #ee71d913' started. 
+07.08.2017 17:11:18 Background process 'Worker #f33d9523' started. 
+07.08.2017 17:11:18 Background process 'Worker #cbb1790d' started. 
+07.08.2017 17:11:18 Records from the 'Counter' table aggregated. 
+07.08.2017 17:11:18 Background process 'Worker #286fe040' started. 
+07.08.2017 17:11:18 Background process 'Worker #0d4e0c80' started. 
+07.08.2017 17:11:18 Outdated records removed from the 'List' table. 
+07.08.2017 17:11:18 Removing outdated records from the 'Set' table... 
+07.08.2017 17:11:18 Background process 'Worker #9d10a334' started. 
+07.08.2017 17:11:18 Background process 'Worker #564cfa38' started. 
+07.08.2017 17:11:18 Outdated records removed from the 'Set' table. 
+07.08.2017 17:11:18 Removing outdated records from the 'Hash' table... 
+07.08.2017 17:11:18 Background process 'Worker #5e3dcae1' started. 
+07.08.2017 17:11:18 Outdated records removed from the 'Hash' table. 
+07.08.2017 17:11:18 Background process 'Worker #f07af53b' started. 
+07.08.2017 17:11:18 Background process 'Worker #7a0f9060' started. 
+07.08.2017 17:11:18 Background process 'Worker #e48439df' started. 
+07.08.2017 17:11:18 Background process 'Worker #3ddf2695' started. 
+07.08.2017 17:11:18 Background process 'Worker #aa835bbe' started. 
+07.08.2017 17:11:18 Background process 'Worker #5434cd96' started. 
+07.08.2017 17:11:18 Background process 'Worker #e30f852f' started. 
+07.08.2017 17:11:18 Background process 'Worker #723beab3' started. 
+07.08.2017 17:11:18 Background process 'DelayedJobScheduler' started. 
+07.08.2017 17:11:18 Background process 'RecurringJobScheduler' started. 
+07.08.2017 17:15:06 Start installing Hangfire SQL objects... 
+07.08.2017 17:15:07 Hangfire SQL objects installed. 
+07.08.2017 17:15:07 Starting Hangfire Server 
+07.08.2017 17:15:07 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 17:15:07 Using the following options for SQL Server job storage: 
+07.08.2017 17:15:07     Queue poll interval: 00:00:01. 
+07.08.2017 17:15:07 Using the following options for Hangfire Server: 
+07.08.2017 17:15:07     Worker count: 20 
+07.08.2017 17:15:07     Listening queues: 'default' 
+07.08.2017 17:15:07     Shutdown timeout: 00:00:15 
+07.08.2017 17:15:07     Schedule polling interval: 00:00:15 
+07.08.2017 17:15:07 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 17:15:08 Background process 'ServerHeartbeat' started. 
+07.08.2017 17:15:08 Background process 'ServerWatchdog' started. 
+07.08.2017 17:15:08 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 17:15:08 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 17:15:08 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 17:15:08 Aggregating records in 'Counter' table... 
+07.08.2017 17:15:08 Background process 'Worker #0695dc5e' started. 
+07.08.2017 17:15:08 Background process 'Worker #9c00fa4c' started. 
+07.08.2017 17:15:08 Background process 'Worker #b0ee6519' started. 
+07.08.2017 17:15:08 Background process 'Worker #d8231ddb' started. 
+07.08.2017 17:15:08 Background process 'Worker #44379a67' started. 
+07.08.2017 17:15:08 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 17:15:08 Removing outdated records from the 'Job' table... 
+07.08.2017 17:15:08 Background process 'Worker #8bf3d657' started. 
+07.08.2017 17:15:08 Outdated records removed from the 'Job' table. 
+07.08.2017 17:15:08 Removing outdated records from the 'List' table... 
+07.08.2017 17:15:08 Background process 'Worker #bb7e561d' started. 
+07.08.2017 17:15:08 Records from the 'Counter' table aggregated. 
+07.08.2017 17:15:08 Background process 'Worker #f18d1479' started. 
+07.08.2017 17:15:08 Outdated records removed from the 'List' table. 
+07.08.2017 17:15:08 Removing outdated records from the 'Set' table... 
+07.08.2017 17:15:08 Background process 'Worker #4e4835b3' started. 
+07.08.2017 17:15:08 Background process 'Worker #5dbdef31' started. 
+07.08.2017 17:15:08 Outdated records removed from the 'Set' table. 
+07.08.2017 17:15:08 Removing outdated records from the 'Hash' table... 
+07.08.2017 17:15:08 Background process 'Worker #f45b2585' started. 
+07.08.2017 17:15:08 Background process 'Worker #d09b3c69' started. 
+07.08.2017 17:15:08 Outdated records removed from the 'Hash' table. 
+07.08.2017 17:15:08 Background process 'Worker #58df261f' started. 
+07.08.2017 17:15:08 Background process 'Worker #b1d0d1ec' started. 
+07.08.2017 17:15:08 Background process 'Worker #20f282e7' started. 
+07.08.2017 17:15:08 Background process 'Worker #c6e695b1' started. 
+07.08.2017 17:15:08 Background process 'Worker #1ccde55d' started. 
+07.08.2017 17:15:08 Background process 'Worker #f06ddd2e' started. 
+07.08.2017 17:15:08 Background process 'Worker #13561ee1' started. 
+07.08.2017 17:15:08 Background process 'DelayedJobScheduler' started. 
+07.08.2017 17:15:08 Background process 'Worker #d5a9600f' started. 
+07.08.2017 17:15:08 Background process 'RecurringJobScheduler' started. 
+07.08.2017 17:17:04 Start installing Hangfire SQL objects... 
+07.08.2017 17:17:05 Hangfire SQL objects installed. 
+07.08.2017 17:17:05 Starting Hangfire Server 
+07.08.2017 17:17:05 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 17:17:05 Using the following options for SQL Server job storage: 
+07.08.2017 17:17:05     Queue poll interval: 00:00:01. 
+07.08.2017 17:17:05 Using the following options for Hangfire Server: 
+07.08.2017 17:17:05     Worker count: 20 
+07.08.2017 17:17:05     Listening queues: 'default' 
+07.08.2017 17:17:05     Shutdown timeout: 00:00:15 
+07.08.2017 17:17:05     Schedule polling interval: 00:00:15 
+07.08.2017 17:17:05 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 17:17:05 Background process 'ServerHeartbeat' started. 
+07.08.2017 17:17:05 Background process 'ServerWatchdog' started. 
+07.08.2017 17:17:05 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 17:17:05 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 17:17:05 1 servers were removed due to timeout 
+07.08.2017 17:17:05 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 17:17:05 Aggregating records in 'Counter' table... 
+07.08.2017 17:17:05 Background process 'Worker #46e32c78' started. 
+07.08.2017 17:17:05 Background process 'Worker #90843c26' started. 
+07.08.2017 17:17:05 Background process 'Worker #d966f809' started. 
+07.08.2017 17:17:05 Background process 'Worker #c5e1f8c9' started. 
+07.08.2017 17:17:06 Background process 'Worker #7ea782ec' started. 
+07.08.2017 17:17:06 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 17:17:06 Removing outdated records from the 'Job' table... 
+07.08.2017 17:17:06 Background process 'Worker #765a2f36' started. 
+07.08.2017 17:17:06 Background process 'Worker #af1017ef' started. 
+07.08.2017 17:17:06 Background process 'Worker #819dbbab' started. 
+07.08.2017 17:17:06 Outdated records removed from the 'Job' table. 
+07.08.2017 17:17:06 Removing outdated records from the 'List' table... 
+07.08.2017 17:17:06 Records from the 'Counter' table aggregated. 
+07.08.2017 17:17:06 Background process 'Worker #50f68900' started. 
+07.08.2017 17:17:06 Background process 'Worker #5574df7d' started. 
+07.08.2017 17:17:06 Outdated records removed from the 'List' table. 
+07.08.2017 17:17:06 Removing outdated records from the 'Set' table... 
+07.08.2017 17:17:06 Background process 'Worker #6426b645' started. 
+07.08.2017 17:17:06 Background process 'Worker #e3b45904' started. 
+07.08.2017 17:17:06 Background process 'Worker #ec8a5099' started. 
+07.08.2017 17:17:06 Background process 'Worker #122593ab' started. 
+07.08.2017 17:17:06 Outdated records removed from the 'Set' table. 
+07.08.2017 17:17:06 Removing outdated records from the 'Hash' table... 
+07.08.2017 17:17:06 Background process 'Worker #6f562c83' started. 
+07.08.2017 17:17:06 Outdated records removed from the 'Hash' table. 
+07.08.2017 17:17:06 Background process 'Worker #b21a5fa0' started. 
+07.08.2017 17:17:06 Background process 'Worker #75830bf2' started. 
+07.08.2017 17:17:06 Background process 'Worker #7dd192fb' started. 
+07.08.2017 17:17:06 Background process 'Worker #4c790dd9' started. 
+07.08.2017 17:17:06 Background process 'Worker #a463d335' started. 
+07.08.2017 17:17:06 Background process 'DelayedJobScheduler' started. 
+07.08.2017 17:17:06 Background process 'RecurringJobScheduler' started. 
+07.08.2017 17:18:38 Start installing Hangfire SQL objects... 
+07.08.2017 17:18:39 Hangfire SQL objects installed. 
+07.08.2017 17:18:39 Starting Hangfire Server 
+07.08.2017 17:18:39 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 17:18:39 Using the following options for SQL Server job storage: 
+07.08.2017 17:18:39     Queue poll interval: 00:00:01. 
+07.08.2017 17:18:39 Using the following options for Hangfire Server: 
+07.08.2017 17:18:39     Worker count: 20 
+07.08.2017 17:18:39     Listening queues: 'default' 
+07.08.2017 17:18:39     Shutdown timeout: 00:00:15 
+07.08.2017 17:18:39     Schedule polling interval: 00:00:15 
+07.08.2017 17:18:39 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 17:18:39 Background process 'ServerHeartbeat' started. 
+07.08.2017 17:18:39 Background process 'ServerWatchdog' started. 
+07.08.2017 17:18:39 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 17:18:39 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 17:18:39 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 17:18:39 Aggregating records in 'Counter' table... 
+07.08.2017 17:18:39 Background process 'Worker #81bda14c' started. 
+07.08.2017 17:18:39 Background process 'Worker #f3bb5a7f' started. 
+07.08.2017 17:18:39 Background process 'Worker #3f76b890' started. 
+07.08.2017 17:18:39 Background process 'Worker #aa29d906' started. 
+07.08.2017 17:18:39 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 17:18:39 Removing outdated records from the 'Job' table... 
+07.08.2017 17:18:40 Background process 'Worker #c4e8acfa' started. 
+07.08.2017 17:18:40 Records from the 'Counter' table aggregated. 
+07.08.2017 17:18:40 Background process 'Worker #7c973642' started. 
+07.08.2017 17:18:40 Outdated records removed from the 'Job' table. 
+07.08.2017 17:18:40 Removing outdated records from the 'List' table... 
+07.08.2017 17:18:40 Background process 'Worker #e0ef8a5b' started. 
+07.08.2017 17:18:40 Background process 'Worker #11adea62' started. 
+07.08.2017 17:18:40 Outdated records removed from the 'List' table. 
+07.08.2017 17:18:40 Removing outdated records from the 'Set' table... 
+07.08.2017 17:18:40 Background process 'Worker #4eaf08ef' started. 
+07.08.2017 17:18:40 Background process 'Worker #7970d0e5' started. 
+07.08.2017 17:18:40 Outdated records removed from the 'Set' table. 
+07.08.2017 17:18:40 Removing outdated records from the 'Hash' table... 
+07.08.2017 17:18:40 Background process 'Worker #ffe1236e' started. 
+07.08.2017 17:18:40 Background process 'Worker #1f76b380' started. 
+07.08.2017 17:18:40 Outdated records removed from the 'Hash' table. 
+07.08.2017 17:18:40 Background process 'Worker #203e7161' started. 
+07.08.2017 17:18:40 Background process 'Worker #0b731a09' started. 
+07.08.2017 17:18:40 Background process 'Worker #536b7111' started. 
+07.08.2017 17:18:40 Background process 'Worker #a9189da0' started. 
+07.08.2017 17:18:40 Background process 'Worker #bbf5c7fa' started. 
+07.08.2017 17:18:40 Background process 'Worker #0630471a' started. 
+07.08.2017 17:18:40 Background process 'Worker #1b1a3bf1' started. 
+07.08.2017 17:18:40 Background process 'Worker #e62b22b0' started. 
+07.08.2017 17:18:40 Background process 'DelayedJobScheduler' started. 
+07.08.2017 17:18:40 Background process 'RecurringJobScheduler' started. 
+07.08.2017 17:20:50 Start installing Hangfire SQL objects... 
+07.08.2017 17:20:50 Hangfire SQL objects installed. 
+07.08.2017 17:20:51 Starting Hangfire Server 
+07.08.2017 17:20:51 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 17:20:51 Using the following options for SQL Server job storage: 
+07.08.2017 17:20:51     Queue poll interval: 00:00:01. 
+07.08.2017 17:20:51 Using the following options for Hangfire Server: 
+07.08.2017 17:20:51     Worker count: 20 
+07.08.2017 17:20:51     Listening queues: 'default' 
+07.08.2017 17:20:51     Shutdown timeout: 00:00:15 
+07.08.2017 17:20:51     Schedule polling interval: 00:00:15 
+07.08.2017 17:20:51 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 17:20:51 Background process 'ServerHeartbeat' started. 
+07.08.2017 17:20:51 Background process 'ServerWatchdog' started. 
+07.08.2017 17:20:51 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 17:20:51 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 17:20:51 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 17:20:51 Aggregating records in 'Counter' table... 
+07.08.2017 17:20:51 Background process 'Worker #98c04fe6' started. 
+07.08.2017 17:20:51 Background process 'Worker #437929d6' started. 
+07.08.2017 17:20:51 1 servers were removed due to timeout 
+07.08.2017 17:20:51 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 17:20:51 Removing outdated records from the 'Job' table... 
+07.08.2017 17:20:51 Background process 'Worker #5ffa14cd' started. 
+07.08.2017 17:20:51 Background process 'Worker #72de8461' started. 
+07.08.2017 17:20:51 Background process 'Worker #88ddfb33' started. 
+07.08.2017 17:20:51 Outdated records removed from the 'Job' table. 
+07.08.2017 17:20:51 Removing outdated records from the 'List' table... 
+07.08.2017 17:20:52 Background process 'Worker #a38c5cf7' started. 
+07.08.2017 17:20:52 Records from the 'Counter' table aggregated. 
+07.08.2017 17:20:52 Outdated records removed from the 'List' table. 
+07.08.2017 17:20:52 Removing outdated records from the 'Set' table... 
+07.08.2017 17:20:52 Background process 'Worker #1cf9bcea' started. 
+07.08.2017 17:20:52 Background process 'Worker #b4d97bc3' started. 
+07.08.2017 17:20:52 Background process 'Worker #59f72e72' started. 
+07.08.2017 17:20:52 Background process 'Worker #a16e430e' started. 
+07.08.2017 17:20:52 Outdated records removed from the 'Set' table. 
+07.08.2017 17:20:52 Removing outdated records from the 'Hash' table... 
+07.08.2017 17:20:52 Background process 'Worker #5ff08287' started. 
+07.08.2017 17:20:52 Background process 'Worker #72175d78' started. 
+07.08.2017 17:20:52 Background process 'Worker #e1040051' started. 
+07.08.2017 17:20:52 Outdated records removed from the 'Hash' table. 
+07.08.2017 17:20:52 Background process 'Worker #fa5b7b78' started. 
+07.08.2017 17:20:52 Background process 'Worker #999263da' started. 
+07.08.2017 17:20:52 Background process 'Worker #d1fd2976' started. 
+07.08.2017 17:20:52 Background process 'Worker #eab63970' started. 
+07.08.2017 17:20:52 Background process 'Worker #50f003b4' started. 
+07.08.2017 17:20:52 Background process 'Worker #89d80edf' started. 
+07.08.2017 17:20:52 Background process 'Worker #6eb4bcc7' started. 
+07.08.2017 17:20:52 Background process 'DelayedJobScheduler' started. 
+07.08.2017 17:20:52 Background process 'RecurringJobScheduler' started. 
+07.08.2017 17:22:28 Start installing Hangfire SQL objects... 
+07.08.2017 17:22:29 Hangfire SQL objects installed. 
+07.08.2017 17:22:29 Starting Hangfire Server 
+07.08.2017 17:22:29 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 17:22:29 Using the following options for SQL Server job storage: 
+07.08.2017 17:22:29     Queue poll interval: 00:00:01. 
+07.08.2017 17:22:29 Using the following options for Hangfire Server: 
+07.08.2017 17:22:29     Worker count: 20 
+07.08.2017 17:22:29     Listening queues: 'default' 
+07.08.2017 17:22:29     Shutdown timeout: 00:00:15 
+07.08.2017 17:22:29     Schedule polling interval: 00:00:15 
+07.08.2017 17:22:29 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 17:22:30 Background process 'ServerHeartbeat' started. 
+07.08.2017 17:22:30 Background process 'ServerWatchdog' started. 
+07.08.2017 17:22:30 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 17:22:30 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 17:22:30 1 servers were removed due to timeout 
+07.08.2017 17:22:30 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 17:22:30 Aggregating records in 'Counter' table... 
+07.08.2017 17:22:30 Background process 'Worker #4b0043d5' started. 
+07.08.2017 17:22:31 Background process 'Worker #3033667e' started. 
+07.08.2017 17:22:31 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 17:22:31 Removing outdated records from the 'Job' table... 
+07.08.2017 17:22:31 Background process 'Worker #a2936cba' started. 
+07.08.2017 17:22:31 Background process 'Worker #118ab860' started. 
+07.08.2017 17:22:31 Background process 'Worker #00752b3e' started. 
+07.08.2017 17:22:31 Records from the 'Counter' table aggregated. 
+07.08.2017 17:22:31 Outdated records removed from the 'Job' table. 
+07.08.2017 17:22:31 Removing outdated records from the 'List' table... 
+07.08.2017 17:22:31 Background process 'Worker #23025b76' started. 
+07.08.2017 17:22:31 Background process 'Worker #082e3bc6' started. 
+07.08.2017 17:22:31 Outdated records removed from the 'List' table. 
+07.08.2017 17:22:31 Removing outdated records from the 'Set' table... 
+07.08.2017 17:22:31 Background process 'Worker #44ee80ea' started. 
+07.08.2017 17:22:31 Background process 'Worker #d4369178' started. 
+07.08.2017 17:22:31 Outdated records removed from the 'Set' table. 
+07.08.2017 17:22:31 Removing outdated records from the 'Hash' table... 
+07.08.2017 17:22:32 Background process 'Worker #3d84713a' started. 
+07.08.2017 17:22:32 Background process 'Worker #ae796716' started. 
+07.08.2017 17:22:32 Outdated records removed from the 'Hash' table. 
+07.08.2017 17:22:32 Background process 'Worker #97237d69' started. 
+07.08.2017 17:22:32 Background process 'Worker #6674ff04' started. 
+07.08.2017 17:22:32 Background process 'Worker #1ebee633' started. 
+07.08.2017 17:22:32 Background process 'Worker #76b8d602' started. 
+07.08.2017 17:22:32 Background process 'Worker #04c96ac5' started. 
+07.08.2017 17:22:32 Background process 'Worker #7bd78100' started. 
+07.08.2017 17:22:32 Background process 'Worker #bced1f82' started. 
+07.08.2017 17:22:32 Background process 'Worker #cb0a6918' started. 
+07.08.2017 17:22:32 Background process 'Worker #dd942448' started. 
+07.08.2017 17:22:32 Background process 'DelayedJobScheduler' started. 
+07.08.2017 17:22:33 Background process 'RecurringJobScheduler' started. 
+07.08.2017 17:24:03 Start installing Hangfire SQL objects... 
+07.08.2017 17:24:03 Hangfire SQL objects installed. 
+07.08.2017 17:24:03 Starting Hangfire Server 
+07.08.2017 17:24:03 Using job storage: 'SQL Server: ANDREY2@Library1' 
+07.08.2017 17:24:03 Using the following options for SQL Server job storage: 
+07.08.2017 17:24:03     Queue poll interval: 00:00:01. 
+07.08.2017 17:24:03 Using the following options for Hangfire Server: 
+07.08.2017 17:24:03     Worker count: 20 
+07.08.2017 17:24:03     Listening queues: 'default' 
+07.08.2017 17:24:03     Shutdown timeout: 00:00:15 
+07.08.2017 17:24:03     Schedule polling interval: 00:00:15 
+07.08.2017 17:24:03 Background process 'BackgroundProcessingServer' started. 
+07.08.2017 17:24:04 Background process 'ServerHeartbeat' started. 
+07.08.2017 17:24:04 Background process 'ServerWatchdog' started. 
+07.08.2017 17:24:04 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+07.08.2017 17:24:04 Removing outdated records from the 'AggregatedCounter' table... 
+07.08.2017 17:24:04 1 servers were removed due to timeout 
+07.08.2017 17:24:04 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+07.08.2017 17:24:04 Aggregating records in 'Counter' table... 
+07.08.2017 17:24:04 Background process 'Worker #04bb356a' started. 
+07.08.2017 17:24:04 Background process 'Worker #23a0cb22' started. 
+07.08.2017 17:24:04 Background process 'Worker #075e7e49' started. 
+07.08.2017 17:24:04 Background process 'Worker #19238f32' started. 
+07.08.2017 17:24:04 Outdated records removed from the 'AggregatedCounter' table. 
+07.08.2017 17:24:04 Removing outdated records from the 'Job' table... 
+07.08.2017 17:24:04 Background process 'Worker #a6068e13' started. 
+07.08.2017 17:24:04 Background process 'Worker #42b185f3' started. 
+07.08.2017 17:24:04 Background process 'Worker #4b97b8b1' started. 
+07.08.2017 17:24:04 Background process 'Worker #434a7f6c' started. 
+07.08.2017 17:24:04 Background process 'Worker #efe997dc' started. 
+07.08.2017 17:24:04 Outdated records removed from the 'Job' table. 
+07.08.2017 17:24:04 Removing outdated records from the 'List' table... 
+07.08.2017 17:24:05 Background process 'Worker #fbd60deb' started. 
+07.08.2017 17:24:05 Background process 'Worker #5504bb4f' started. 
+07.08.2017 17:24:05 Outdated records removed from the 'List' table. 
+07.08.2017 17:24:05 Removing outdated records from the 'Set' table... 
+07.08.2017 17:24:05 Background process 'Worker #6d0f36ba' started. 
+07.08.2017 17:24:05 Outdated records removed from the 'Set' table. 
+07.08.2017 17:24:05 Removing outdated records from the 'Hash' table... 
+07.08.2017 17:24:05 Background process 'Worker #6d6e3f5f' started. 
+07.08.2017 17:24:05 Records from the 'Counter' table aggregated. 
+07.08.2017 17:24:05 Outdated records removed from the 'Hash' table. 
+07.08.2017 17:24:05 Background process 'Worker #a6582bf2' started. 
+07.08.2017 17:24:05 Background process 'Worker #2b44b328' started. 
+07.08.2017 17:24:05 Background process 'Worker #b64b317f' started. 
+07.08.2017 17:24:05 Background process 'Worker #b960e54c' started. 
+07.08.2017 17:24:05 Background process 'Worker #a7748f3a' started. 
+07.08.2017 17:24:05 Background process 'Worker #0bbeee0b' started. 
+07.08.2017 17:24:05 Background process 'Worker #25edcd69' started. 
+07.08.2017 17:24:05 Background process 'DelayedJobScheduler' started. 
+07.08.2017 17:24:05 Background process 'RecurringJobScheduler' started. 
+08.08.2017 17:17:00 Start installing Hangfire SQL objects... 
+08.08.2017 17:17:01 Hangfire SQL objects installed. 
+08.08.2017 17:17:01 Starting Hangfire Server 
+08.08.2017 17:17:01 Using job storage: 'SQL Server: ANDREY2@Library1' 
+08.08.2017 17:17:01 Using the following options for SQL Server job storage: 
+08.08.2017 17:17:01     Queue poll interval: 00:00:01. 
+08.08.2017 17:17:01 Using the following options for Hangfire Server: 
+08.08.2017 17:17:01     Worker count: 20 
+08.08.2017 17:17:01     Listening queues: 'default' 
+08.08.2017 17:17:01     Shutdown timeout: 00:00:15 
+08.08.2017 17:17:01     Schedule polling interval: 00:00:15 
+08.08.2017 17:17:01 Background process 'BackgroundProcessingServer' started. 
+08.08.2017 17:17:02 Background process 'ServerHeartbeat' started. 
+08.08.2017 17:17:02 Background process 'ServerWatchdog' started. 
+08.08.2017 17:17:02 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+08.08.2017 17:17:02 Removing outdated records from the 'AggregatedCounter' table... 
+08.08.2017 17:17:02 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+08.08.2017 17:17:02 Aggregating records in 'Counter' table... 
+08.08.2017 17:17:02 Background process 'Worker #6db3d5cd' started. 
+08.08.2017 17:17:02 Background process 'Worker #19ea7df0' started. 
+08.08.2017 17:17:02 Background process 'Worker #30d3aea7' started. 
+08.08.2017 17:17:02 Background process 'Worker #0501da66' started. 
+08.08.2017 17:17:02 Background process 'Worker #8fb3588f' started. 
+08.08.2017 17:17:02 Background process 'Worker #67a1e3be' started. 
+08.08.2017 17:17:02 Background process 'Worker #9bb1f1f1' started. 
+08.08.2017 17:17:02 Background process 'Worker #cbc4b1cc' started. 
+08.08.2017 17:17:02 Background process 'Worker #781a06f5' started. 
+08.08.2017 17:17:02 Background process 'Worker #12fee9f6' started. 
+08.08.2017 17:17:02 Background process 'Worker #09046cd3' started. 
+08.08.2017 17:17:02 Background process 'Worker #cab9298b' started. 
+08.08.2017 17:17:03 Background process 'Worker #784be2fe' started. 
+08.08.2017 17:17:03 Background process 'Worker #ae345f9b' started. 
+08.08.2017 17:17:03 Outdated records removed from the 'AggregatedCounter' table. 
+08.08.2017 17:17:03 Removing outdated records from the 'Job' table... 
+08.08.2017 17:17:03 Background process 'Worker #8a7c53d1' started. 
+08.08.2017 17:17:03 Background process 'Worker #33778c00' started. 
+08.08.2017 17:17:03 Background process 'Worker #eac5cf62' started. 
+08.08.2017 17:17:03 Background process 'Worker #d7f29097' started. 
+08.08.2017 17:17:03 Background process 'Worker #c4747ff7' started. 
+08.08.2017 17:17:03 Background process 'Worker #90d3bde6' started. 
+08.08.2017 17:17:03 Background process 'DelayedJobScheduler' started. 
+08.08.2017 17:17:03 Background process 'RecurringJobScheduler' started. 
+08.08.2017 17:17:03 Records from the 'Counter' table aggregated. 
+08.08.2017 17:17:03 Outdated records removed from the 'Job' table. 
+08.08.2017 17:17:03 Removing outdated records from the 'List' table... 
+08.08.2017 17:17:03 Outdated records removed from the 'List' table. 
+08.08.2017 17:17:03 Removing outdated records from the 'Set' table... 
+08.08.2017 17:17:03 Outdated records removed from the 'Set' table. 
+08.08.2017 17:17:03 Removing outdated records from the 'Hash' table... 
+08.08.2017 17:17:03 Outdated records removed from the 'Hash' table. 
+08.08.2017 17:17:27 Method Login is executing 
+08.08.2017 17:17:28 authorization was successful 
+08.08.2017 17:17:28 Method Login is executed 
+08.08.2017 17:43:33 Start installing Hangfire SQL objects... 
+08.08.2017 17:43:34 Hangfire SQL objects installed. 
+08.08.2017 17:43:34 Starting Hangfire Server 
+08.08.2017 17:43:34 Using job storage: 'SQL Server: ANDREY2@Library1' 
+08.08.2017 17:43:34 Using the following options for SQL Server job storage: 
+08.08.2017 17:43:34     Queue poll interval: 00:00:01. 
+08.08.2017 17:43:34 Using the following options for Hangfire Server: 
+08.08.2017 17:43:34     Worker count: 20 
+08.08.2017 17:43:34     Listening queues: 'default' 
+08.08.2017 17:43:34     Shutdown timeout: 00:00:15 
+08.08.2017 17:43:34     Schedule polling interval: 00:00:15 
+08.08.2017 17:43:34 Background process 'BackgroundProcessingServer' started. 
+08.08.2017 17:43:34 Background process 'ServerHeartbeat' started. 
+08.08.2017 17:43:34 Background process 'ServerWatchdog' started. 
+08.08.2017 17:43:34 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+08.08.2017 17:43:34 Removing outdated records from the 'AggregatedCounter' table... 
+08.08.2017 17:43:34 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+08.08.2017 17:43:34 Aggregating records in 'Counter' table... 
+08.08.2017 17:43:34 Background process 'Worker #2a0df971' started. 
+08.08.2017 17:43:34 Background process 'Worker #0b830ed3' started. 
+08.08.2017 17:43:34 Background process 'Worker #8817e58c' started. 
+08.08.2017 17:43:34 Background process 'Worker #a78dd85b' started. 
+08.08.2017 17:43:34 Background process 'Worker #2ed3de47' started. 
+08.08.2017 17:43:34 Background process 'Worker #d0f8920d' started. 
+08.08.2017 17:43:34 Background process 'Worker #0150ce46' started. 
+08.08.2017 17:43:34 Background process 'Worker #41c3a0e4' started. 
+08.08.2017 17:43:34 Background process 'Worker #b4735024' started. 
+08.08.2017 17:43:34 Background process 'Worker #6f0d71a6' started. 
+08.08.2017 17:43:34 Background process 'Worker #044deee2' started. 
+08.08.2017 17:43:34 Background process 'Worker #8b1a16d9' started. 
+08.08.2017 17:43:35 Background process 'Worker #ccd18504' started. 
+08.08.2017 17:43:35 Background process 'Worker #300fecb2' started. 
+08.08.2017 17:43:35 Background process 'Worker #c3fe9ab5' started. 
+08.08.2017 17:43:35 Background process 'Worker #9b68e369' started. 
+08.08.2017 17:43:35 Background process 'Worker #db8cef5c' started. 
+08.08.2017 17:43:35 Background process 'Worker #f83264ef' started. 
+08.08.2017 17:43:35 Background process 'Worker #69959590' started. 
+08.08.2017 17:43:35 Background process 'Worker #ba10c80e' started. 
+08.08.2017 17:43:35 Background process 'DelayedJobScheduler' started. 
+08.08.2017 17:43:35 Background process 'RecurringJobScheduler' started. 
+08.08.2017 17:43:35 Outdated records removed from the 'AggregatedCounter' table. 
+08.08.2017 17:43:35 Removing outdated records from the 'Job' table... 
+08.08.2017 17:43:35 Outdated records removed from the 'Job' table. 
+08.08.2017 17:43:35 Removing outdated records from the 'List' table... 
+08.08.2017 17:43:35 Outdated records removed from the 'List' table. 
+08.08.2017 17:43:35 Removing outdated records from the 'Set' table... 
+08.08.2017 17:43:35 Outdated records removed from the 'Set' table. 
+08.08.2017 17:43:35 Removing outdated records from the 'Hash' table... 
+08.08.2017 17:43:35 Outdated records removed from the 'Hash' table. 
+08.08.2017 17:43:35 Records from the 'Counter' table aggregated. 
+08.08.2017 18:02:55 Start installing Hangfire SQL objects... 
+08.08.2017 18:02:56 Hangfire SQL objects installed. 
+08.08.2017 18:02:56 Starting Hangfire Server 
+08.08.2017 18:02:56 Using job storage: 'SQL Server: ANDREY2@Library1' 
+08.08.2017 18:02:56 Using the following options for SQL Server job storage: 
+08.08.2017 18:02:56     Queue poll interval: 00:00:01. 
+08.08.2017 18:02:56 Using the following options for Hangfire Server: 
+08.08.2017 18:02:56     Worker count: 20 
+08.08.2017 18:02:56     Listening queues: 'default' 
+08.08.2017 18:02:56     Shutdown timeout: 00:00:15 
+08.08.2017 18:02:56     Schedule polling interval: 00:00:15 
+08.08.2017 18:02:56 Background process 'BackgroundProcessingServer' started. 
+08.08.2017 18:02:56 Background process 'ServerHeartbeat' started. 
+08.08.2017 18:02:56 Background process 'ServerWatchdog' started. 
+08.08.2017 18:02:56 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+08.08.2017 18:02:56 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+08.08.2017 18:02:56 Removing outdated records from the 'AggregatedCounter' table... 
+08.08.2017 18:02:56 Aggregating records in 'Counter' table... 
+08.08.2017 18:02:56 1 servers were removed due to timeout 
+08.08.2017 18:02:56 Background process 'Worker #72d489d9' started. 
+08.08.2017 18:02:56 Background process 'Worker #795c906b' started. 
+08.08.2017 18:02:56 Background process 'Worker #40d64a0c' started. 
+08.08.2017 18:02:56 Background process 'Worker #af7f0e63' started. 
+08.08.2017 18:02:56 Background process 'Worker #b3b276bb' started. 
+08.08.2017 18:02:56 Background process 'Worker #f1030e01' started. 
+08.08.2017 18:02:56 Background process 'Worker #08046c0d' started. 
+08.08.2017 18:02:56 Background process 'Worker #3a2d00d6' started. 
+08.08.2017 18:02:56 Outdated records removed from the 'AggregatedCounter' table. 
+08.08.2017 18:02:56 Removing outdated records from the 'Job' table... 
+08.08.2017 18:02:56 Background process 'Worker #335011f4' started. 
+08.08.2017 18:02:56 Background process 'Worker #d55fb538' started. 
+08.08.2017 18:02:56 Records from the 'Counter' table aggregated. 
+08.08.2017 18:02:56 Background process 'Worker #726f1420' started. 
+08.08.2017 18:02:56 Background process 'Worker #9e8c8fca' started. 
+08.08.2017 18:02:56 Outdated records removed from the 'Job' table. 
+08.08.2017 18:02:56 Removing outdated records from the 'List' table... 
+08.08.2017 18:02:56 Background process 'Worker #eecc3a47' started. 
+08.08.2017 18:02:56 Background process 'Worker #f4fdd7cb' started. 
+08.08.2017 18:02:56 Background process 'Worker #b6685bc3' started. 
+08.08.2017 18:02:56 Outdated records removed from the 'List' table. 
+08.08.2017 18:02:56 Removing outdated records from the 'Set' table... 
+08.08.2017 18:02:56 Background process 'Worker #0ee850db' started. 
+08.08.2017 18:02:56 Background process 'Worker #a46fd069' started. 
+08.08.2017 18:02:56 Background process 'Worker #81edc39c' started. 
+08.08.2017 18:02:57 Background process 'Worker #4ac46208' started. 
+08.08.2017 18:02:57 Outdated records removed from the 'Set' table. 
+08.08.2017 18:02:57 Removing outdated records from the 'Hash' table... 
+08.08.2017 18:02:57 Background process 'Worker #ead17394' started. 
+08.08.2017 18:02:57 Background process 'DelayedJobScheduler' started. 
+08.08.2017 18:02:57 Outdated records removed from the 'Hash' table. 
+08.08.2017 18:02:57 Background process 'RecurringJobScheduler' started. 
+08.08.2017 18:07:05 Start installing Hangfire SQL objects... 
+08.08.2017 18:07:05 Hangfire SQL objects installed. 
+08.08.2017 18:07:06 Starting Hangfire Server 
+08.08.2017 18:07:06 Using job storage: 'SQL Server: ANDREY2@Library1' 
+08.08.2017 18:07:06 Using the following options for SQL Server job storage: 
+08.08.2017 18:07:06     Queue poll interval: 00:00:01. 
+08.08.2017 18:07:06 Using the following options for Hangfire Server: 
+08.08.2017 18:07:06     Worker count: 20 
+08.08.2017 18:07:06     Listening queues: 'default' 
+08.08.2017 18:07:06     Shutdown timeout: 00:00:15 
+08.08.2017 18:07:06     Schedule polling interval: 00:00:15 
+08.08.2017 18:07:06 Background process 'BackgroundProcessingServer' started. 
+08.08.2017 18:07:06 Background process 'ServerHeartbeat' started. 
+08.08.2017 18:07:06 Background process 'ServerWatchdog' started. 
+08.08.2017 18:07:06 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+08.08.2017 18:07:06 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+08.08.2017 18:07:06 Removing outdated records from the 'AggregatedCounter' table... 
+08.08.2017 18:07:06 Aggregating records in 'Counter' table... 
+08.08.2017 18:07:06 Background process 'Worker #ed4df982' started. 
+08.08.2017 18:07:06 Background process 'Worker #9962c037' started. 
+08.08.2017 18:07:06 Background process 'Worker #c614a1c4' started. 
+08.08.2017 18:07:06 Background process 'Worker #0d7aac41' started. 
+08.08.2017 18:07:06 Background process 'Worker #fb1d3fb2' started. 
+08.08.2017 18:07:06 Background process 'Worker #8fe3ac8a' started. 
+08.08.2017 18:07:06 Background process 'Worker #cdd939ec' started. 
+08.08.2017 18:07:06 Outdated records removed from the 'AggregatedCounter' table. 
+08.08.2017 18:07:06 Removing outdated records from the 'Job' table... 
+08.08.2017 18:07:06 Background process 'Worker #b63a507c' started. 
+08.08.2017 18:07:06 Background process 'Worker #5dffc7e3' started. 
+08.08.2017 18:07:06 Background process 'Worker #e5e4268e' started. 
+08.08.2017 18:07:06 Background process 'Worker #a1f18cd2' started. 
+08.08.2017 18:07:06 Outdated records removed from the 'Job' table. 
+08.08.2017 18:07:06 Removing outdated records from the 'List' table... 
+08.08.2017 18:07:06 Background process 'Worker #ba0bc424' started. 
+08.08.2017 18:07:06 Background process 'Worker #3a0e9485' started. 
+08.08.2017 18:07:06 Background process 'Worker #ea4a6512' started. 
+08.08.2017 18:07:06 Background process 'Worker #a858cdb9' started. 
+08.08.2017 18:07:06 Background process 'Worker #39bece43' started. 
+08.08.2017 18:07:06 Background process 'Worker #e7e57979' started. 
+08.08.2017 18:07:06 Background process 'Worker #25176fbe' started. 
+08.08.2017 18:07:06 Background process 'Worker #809cd0bd' started. 
+08.08.2017 18:07:06 Background process 'Worker #2455b866' started. 
+08.08.2017 18:07:06 Background process 'DelayedJobScheduler' started. 
+08.08.2017 18:07:06 Outdated records removed from the 'List' table. 
+08.08.2017 18:07:06 Removing outdated records from the 'Set' table... 
+08.08.2017 18:07:06 Background process 'RecurringJobScheduler' started. 
+08.08.2017 18:07:06 Records from the 'Counter' table aggregated. 
+08.08.2017 18:07:06 Outdated records removed from the 'Set' table. 
+08.08.2017 18:07:06 Removing outdated records from the 'Hash' table... 
+08.08.2017 18:07:06 Outdated records removed from the 'Hash' table. 
+10.08.2017 13:47:04 Start installing Hangfire SQL objects... 
+10.08.2017 13:47:05 Hangfire SQL objects installed. 
+10.08.2017 13:47:05 Starting Hangfire Server 
+10.08.2017 13:47:05 Using job storage: 'SQL Server: ANDREY2@Library1' 
+10.08.2017 13:47:05 Using the following options for SQL Server job storage: 
+10.08.2017 13:47:05     Queue poll interval: 00:00:01. 
+10.08.2017 13:47:05 Using the following options for Hangfire Server: 
+10.08.2017 13:47:05     Worker count: 20 
+10.08.2017 13:47:05     Listening queues: 'default' 
+10.08.2017 13:47:05     Shutdown timeout: 00:00:15 
+10.08.2017 13:47:05     Schedule polling interval: 00:00:15 
+10.08.2017 13:47:05 Background process 'BackgroundProcessingServer' started. 
+10.08.2017 13:47:05 Background process 'ServerHeartbeat' started. 
+10.08.2017 13:47:06 Background process 'ServerWatchdog' started. 
+10.08.2017 13:47:06 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+10.08.2017 13:47:06 Removing outdated records from the 'AggregatedCounter' table... 
+10.08.2017 13:47:06 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+10.08.2017 13:47:06 Aggregating records in 'Counter' table... 
+10.08.2017 13:47:06 Background process 'Worker #58aa9025' started. 
+10.08.2017 13:47:06 Background process 'Worker #b75003bf' started. 
+10.08.2017 13:47:06 Background process 'Worker #d9fef322' started. 
+10.08.2017 13:47:06 Background process 'Worker #81a28ea0' started. 
+10.08.2017 13:47:06 Background process 'Worker #1789bd75' started. 
+10.08.2017 13:47:06 Background process 'Worker #a795a791' started. 
+10.08.2017 13:47:06 Background process 'Worker #da0da0c2' started. 
+10.08.2017 13:47:06 Background process 'Worker #5ded0067' started. 
+10.08.2017 13:47:06 Background process 'Worker #25899fdc' started. 
+10.08.2017 13:47:06 Background process 'Worker #ef39451c' started. 
+10.08.2017 13:47:06 Background process 'Worker #a5a6baa7' started. 
+10.08.2017 13:47:06 Background process 'Worker #f8bfa3ed' started. 
+10.08.2017 13:47:06 Background process 'Worker #d43f5c61' started. 
+10.08.2017 13:47:06 Background process 'Worker #d8a64b19' started. 
+10.08.2017 13:47:06 Background process 'Worker #72267d33' started. 
+10.08.2017 13:47:06 Background process 'Worker #fccce318' started. 
+10.08.2017 13:47:06 Background process 'Worker #bef9a995' started. 
+10.08.2017 13:47:06 Records from the 'Counter' table aggregated. 
+10.08.2017 13:47:06 Background process 'Worker #46849444' started. 
+10.08.2017 13:47:06 Background process 'Worker #c5e9a597' started. 
+10.08.2017 13:47:06 Background process 'Worker #a9b5b028' started. 
+10.08.2017 13:47:06 Background process 'DelayedJobScheduler' started. 
+10.08.2017 13:47:06 Background process 'RecurringJobScheduler' started. 
+10.08.2017 13:47:06 Outdated records removed from the 'AggregatedCounter' table. 
+10.08.2017 13:47:06 Removing outdated records from the 'Job' table... 
+10.08.2017 13:47:06 Outdated records removed from the 'Job' table. 
+10.08.2017 13:47:06 Removing outdated records from the 'List' table... 
+10.08.2017 13:47:06 Outdated records removed from the 'List' table. 
+10.08.2017 13:47:06 Removing outdated records from the 'Set' table... 
+10.08.2017 13:47:06 Outdated records removed from the 'Set' table. 
+10.08.2017 13:47:06 Removing outdated records from the 'Hash' table... 
+10.08.2017 13:47:06 Outdated records removed from the 'Hash' table. 
+10.08.2017 13:49:07 Start installing Hangfire SQL objects... 
+10.08.2017 13:49:07 Hangfire SQL objects installed. 
+10.08.2017 13:49:07 Starting Hangfire Server 
+10.08.2017 13:49:07 Using job storage: 'SQL Server: ANDREY2@Library1' 
+10.08.2017 13:49:07 Using the following options for SQL Server job storage: 
+10.08.2017 13:49:07     Queue poll interval: 00:00:01. 
+10.08.2017 13:49:07 Using the following options for Hangfire Server: 
+10.08.2017 13:49:07     Worker count: 20 
+10.08.2017 13:49:07     Listening queues: 'default' 
+10.08.2017 13:49:07     Shutdown timeout: 00:00:15 
+10.08.2017 13:49:07     Schedule polling interval: 00:00:15 
+10.08.2017 13:49:07 Background process 'BackgroundProcessingServer' started. 
+10.08.2017 13:49:08 Background process 'ServerHeartbeat' started. 
+10.08.2017 13:49:08 Background process 'ServerWatchdog' started. 
+10.08.2017 13:49:08 Background process 'Hangfire.SqlServer.ExpirationManager' started. 
+10.08.2017 13:49:08 Background process 'Hangfire.SqlServer.CountersAggregator' started. 
+10.08.2017 13:49:08 Aggregating records in 'Counter' table... 
+10.08.2017 13:49:08 Removing outdated records from the 'AggregatedCounter' table... 
+10.08.2017 13:49:08 Background process 'Worker #29966732' started. 
+10.08.2017 13:49:08 Background process 'Worker #19f2e3cb' started. 
+10.08.2017 13:49:08 Background process 'Worker #247f08ad' started. 
+10.08.2017 13:49:08 Background process 'Worker #a8071d00' started. 
+10.08.2017 13:49:08 Background process 'Worker #f87c7d0f' started. 
+10.08.2017 13:49:08 Background process 'Worker #dd6823be' started. 
+10.08.2017 13:49:08 Background process 'Worker #93172260' started. 
+10.08.2017 13:49:08 Background process 'Worker #c547582f' started. 
+10.08.2017 13:49:08 Background process 'Worker #09ea0334' started. 
+10.08.2017 13:49:08 Background process 'Worker #a4f92526' started. 
+10.08.2017 13:49:08 Background process 'Worker #d422e5e4' started. 
+10.08.2017 13:49:08 Background process 'Worker #2682bd09' started. 
+10.08.2017 13:49:08 Background process 'Worker #4ee11ae9' started. 
+10.08.2017 13:49:08 Background process 'Worker #f7818669' started. 
+10.08.2017 13:49:08 Background process 'Worker #efa0c34b' started. 
+10.08.2017 13:49:08 Background process 'Worker #7584a723' started. 
+10.08.2017 13:49:08 Background process 'Worker #b25dfad2' started. 
+10.08.2017 13:49:08 Background process 'Worker #7e627312' started. 
+10.08.2017 13:49:08 Background process 'Worker #b237f845' started. 
+10.08.2017 13:49:08 Background process 'Worker #3254895c' started. 
+10.08.2017 13:49:08 Background process 'DelayedJobScheduler' started. 
+10.08.2017 13:49:08 Background process 'RecurringJobScheduler' started. 
+10.08.2017 13:49:08 Outdated records removed from the 'AggregatedCounter' table. 
+10.08.2017 13:49:08 Removing outdated records from the 'Job' table... 
+10.08.2017 13:49:08 Outdated records removed from the 'Job' table. 
+10.08.2017 13:49:08 Removing outdated records from the 'List' table... 
+10.08.2017 13:49:08 Outdated records removed from the 'List' table. 
+10.08.2017 13:49:08 Removing outdated records from the 'Set' table... 
+10.08.2017 13:49:08 Outdated records removed from the 'Set' table. 
+10.08.2017 13:49:08 Removing outdated records from the 'Hash' table... 
+10.08.2017 13:49:08 Outdated records removed from the 'Hash' table. 
+10.08.2017 13:49:08 Records from the 'Counter' table aggregated. 

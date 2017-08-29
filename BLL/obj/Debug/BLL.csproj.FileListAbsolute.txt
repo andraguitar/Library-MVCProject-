@@ -1,0 +1,65 @@
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\BLL.dll.config
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\BLL.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\BLL.pdb
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\DAL.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\WebActivatorEx.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\DAL.pdb
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\obj\Debug\BLL.dll
+C:\Users\Андреййй\Desktop\WebApplication3\BLL\obj\Debug\BLL.pdb
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\BLL.dll.config
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\BLL.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\BLL.pdb
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\WebActivatorEx.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\obj\Debug\BLL.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\obj\Debug\BLL.pdb
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Hangfire.Core.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Hangfire.SqlServer.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Microsoft.Owin.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Owin.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Hangfire.Core.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Hangfire.SqlServer.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Microsoft.Owin.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Users\Андреййй\Desktop\Новая папка\WebApplication3\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
